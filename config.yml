@@ -24,6 +24,9 @@ params:
   homeInfoParams:
     Title: Hi there
     Content: Let's Learn 
+    assets:
+      favicon16x16: "static/favicon-16x16.png"
+      favicon32x32: "static/favicon-32x32.png"
 
 menu:
   main:
