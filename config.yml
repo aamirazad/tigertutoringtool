@@ -17,6 +17,7 @@ params:
   author: ["Aamir", "Michael"]
   defaultTheme: auto
   ShowShareButtons: true
+  ShowReadingTime: true
   ShowCodeCopyButtons: false
 
 params:
@@ -30,6 +31,10 @@ menu:
       name: home
       url: /
       weight: 1
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 2
     - identifier: categories
       name: categories
       url: /categories/
