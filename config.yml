@@ -24,6 +24,7 @@ params:
   showtoc: true
   label:
     label.icon: '/static/tiger.png'
+    label.iconHeight: 35
 
 outputs:
   home:
