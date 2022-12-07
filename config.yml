@@ -1,3 +1,34 @@
-baseURL: http://example.org/
+baseURL: https://tigerhomeworkhelp.aamira.me/
 languageCode: en-us
-title: My New Hugo Site
+title: Tiger Home Work Help
+theme: PaperMod
+googleAnalytics: G-0WWJG03GJY
+
+module:
+  imports:
+  - path: github.com/adityatelange/hugo-PaperMod
+
+
+params:
+  env: production
+  title: "Tiger Home Work Help"
+  description: "Get help for you classes"
+  author: ["Aamir", "Michael"]
+  defaultTheme: auto
+  ShowShareButtons: true
+  ShowCodeCopyButtons: false
+    fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog
+  profileMode:
+    enabled: true
+  label:
+    text: "Home"
