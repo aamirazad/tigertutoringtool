@@ -17,18 +17,7 @@ params:
   defaultTheme: auto
   ShowShareButtons: true
   ShowCodeCopyButtons: false
-    fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
-  profileMode:
-    enabled: true
-  label:
-    text: "Home"
+  params:
+    homeInfoParams:
+        Title: Hi there wave
+        Content: Can be Info, links, about...
