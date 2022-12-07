@@ -27,6 +27,7 @@ params:
     assets:
       favicon16x16: "static/favicon-16x16.png"
       favicon32x32: "static/favicon-32x32.png"
+    comments: true
 
 menu:
   main:
