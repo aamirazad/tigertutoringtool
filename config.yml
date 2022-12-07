@@ -38,4 +38,7 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-
+    - indentifier: search
+      name: search
+      url: /search/
+      weight: 30
