@@ -12,12 +12,13 @@ module:
 params:
   env: production
   title: "Tiger Home Work Help"
-  description: "Get help for you classes"
+  description: "Get help for your classes"
   author: ["Aamir", "Michael"]
   defaultTheme: auto
   ShowShareButtons: true
   ShowCodeCopyButtons: false
-  params:
-    homeInfoParams:
-        Title: Hi there wave
-        Content: Can be Info, links, about...
+
+params:
+  homeInfoParams:
+    Title: Hi there
+    Content: Let's Learn 
