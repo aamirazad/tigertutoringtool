@@ -18,6 +18,7 @@ params:
   defaultTheme: auto
   ShowShareButtons: true
   ShowReadingTime: true
+  showtoc: true
   ShowCodeCopyButtons: false
   images: '/static/tiger.png'
   keywords: [school, help, homework]
