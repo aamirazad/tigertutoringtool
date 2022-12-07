@@ -19,14 +19,25 @@ params:
   ShowShareButtons: true
   ShowReadingTime: true
   ShowCodeCopyButtons: false
+  images: '/static/tiger.png'
+  keywords: [school, help, homework]
+  showtoc: true
+  label:
+    label.icon: '/static/tiger.png'
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
 
 params:
   homeInfoParams:
     Title: Hi there
     Content: Let's Learn 
     assets:
-      favicon16x16: "static/favicon-16x16.png"
-      favicon32x32: "static/favicon-32x32.png"
+      favicon16x16: "/favicon-16x16.png"
+      favicon32x32: "/favicon-32x32.png"
     comments: true
 
 menu:
