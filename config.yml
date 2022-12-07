@@ -62,3 +62,7 @@ menu:
       name: search
       url: /search/
       weight: 30
+    - identifier: signin
+      name: SignIn
+      url: /signin/
+      weight: 40
