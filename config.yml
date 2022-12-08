@@ -28,7 +28,7 @@ params:
     label.iconHeight: 35
 
 params:
-  CommentoURL: https://cdn.commento.io/js/commento.js
+  CommentoURL: "https://cdn.commento.io/js/commento.js"
 
 
 

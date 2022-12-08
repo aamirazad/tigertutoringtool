@@ -48,11 +48,12 @@
     {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
     {{- partial "share_icons.html" . -}}
     {{- end }}
+    {{ if and .Site.Params.CommentoURL (and (not .Site.BuildDrafts)) }}
+    <h2>Comments</h2>
+    {{ partial "commento.html" . }}
+    {{- end }}
   </footer>
-{{ if and .Site.Params.CommentoURL (and (not .Site.BuildDrafts) (not .Site.IsServer)) -}}
-<h2>Comments</h2>
-{{ partial "commento.html" . }}
-{{- end }}
+
 </article>
 
 {{- end }}{{/* end main */}}
