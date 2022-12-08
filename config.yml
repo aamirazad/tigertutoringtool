@@ -28,7 +28,8 @@ params:
     label.iconHeight: 35
 
 params:
-  comments: true
+  CommentoURL: https://cdn.commento.io/js/commento.js
+
 
 
 
@@ -45,7 +46,6 @@ params:
     assets:
       favicon16x16: "/favicon-16x16.png"
       favicon32x32: "/favicon-32x32.png"
-    comments: true
 
 menu:
   main:

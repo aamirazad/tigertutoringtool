@@ -49,10 +49,10 @@
     {{- partial "share_icons.html" . -}}
     {{- end }}
   </footer>
-
-  {{- if (.Param "comments") }}
-  {{- partial "comments.html" . }}
-  {{- end }}
+{{ if and .Site.Params.CommentoURL (and (not .Site.BuildDrafts) (not .Site.IsServer)) -}}
+<h2>Comments</h2>
+{{ partial "commento.html" . }}
+{{- end }}
 </article>
 
 {{- end }}{{/* end main */}}
