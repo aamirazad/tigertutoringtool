@@ -20,13 +20,17 @@ params:
   ShowReadingTime: true
   showtoc: true
   ShowCodeCopyButtons: false
-  comments: true
   images: '/static/tiger.png'
   keywords: [school, help, homework]
   showtoc: true
   label:
     label.icon: '/static/tiger.png'
     label.iconHeight: 35
+
+params:
+  comments: true
+
+
 
 outputs:
   home:
