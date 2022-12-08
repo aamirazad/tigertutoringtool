@@ -3,6 +3,12 @@ languageCode: en-us
 title: Tiger Tutoring Tool
 theme: PaperMod
 googleAnalytics: G-0WWJG03GJY
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
 
 
 module:
@@ -22,7 +28,8 @@ params:
   ShowCodeCopyButtons: false
   images: '/static/tiger.png'
   keywords: [school, help, homework]
-  showtoc: true
+  ShowToc: true
+  ShowBreadCrumbs: true
   label:
     label.icon: '/static/tiger.png'
     label.iconHeight: 35
