@@ -20,6 +20,7 @@ params:
   ShowReadingTime: true
   showtoc: true
   ShowCodeCopyButtons: false
+  comments: true
   images: '/static/tiger.png'
   keywords: [school, help, homework]
   showtoc: true
