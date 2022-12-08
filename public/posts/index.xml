@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Tiger Home Work Help</title>
-    <link>https://tigerhomeworkhelp.aamira.me/posts/</link>
-    <description>Recent content in Posts on Tiger Home Work Help</description>
+    <title>Posts on Tiger Tutoring Tool</title>
+    <link>https://tigertutoringtool.aamira.me/posts/</link>
+    <description>Recent content in Posts on Tiger Tutoring Tool</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Dec 2022 20:38:08 -0500</lastBuildDate><atom:link href="https://tigerhomeworkhelp.aamira.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Dec 2022 19:16:46 -0500</lastBuildDate><atom:link href="https://tigertutoringtool.aamira.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comments</title>
+      <link>https://tigertutoringtool.aamira.me/posts/comments/</link>
+      <pubDate>Wed, 07 Dec 2022 19:16:46 -0500</pubDate>
+      
+      <guid>https://tigertutoringtool.aamira.me/posts/comments/</guid>
+      <description>Hello This is text
+I want comments more text</description>
+    </item>
+    
     <item>
       <title>Test</title>
-      <link>https://tigerhomeworkhelp.aamira.me/posts/test/</link>
+      <link>https://tigertutoringtool.aamira.me/posts/test/</link>
       <pubDate>Tue, 06 Dec 2022 20:38:08 -0500</pubDate>
       
-      <guid>https://tigerhomeworkhelp.aamira.me/posts/test/</guid>
+      <guid>https://tigertutoringtool.aamira.me/posts/test/</guid>
       <description>HELLO WORLD </description>
     </item>
     
