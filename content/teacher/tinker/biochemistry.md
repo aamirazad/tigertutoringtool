@@ -26,7 +26,13 @@ Non-polar covalent bond
 : A Non-polar covalent bond is the equal sharing of elections between two atoms. How to remember Nonpolar covalent bonds?: Santa shares his presents equally. Remember this vocab word by knowing the opposite (Santa unevenly shared the presents (polar covalent bond)).
 
 Monomers of PNCL
-: The four monomers is amino acid, nucleotides, monosaccharide, and glycerol (combined with a fatty acid)
+: A Protein's monomer is Amino acids, Nucleic acids is Nucleotides, Carbohydrates is Monosaccharide, and Lipids is Glycerol with a Fatty Acid
+
+How to remember?:
+Proteins: A mean Cow. Cows have lots of protein. A mean sounds like Amino. 
+Nucleic Acids: Nucleo is written the same as Nucleic. 
+Carbohydrates: Knowing the simpler meaning of monosaccharides, one sugar, can be easier to remember.
+Lipids: Guys are fat. Glycerol starts with Guys. Fat is the same as Fatty Acid
 
 * PNCL Park macromolecules are made of what elements? CHONS: Carbon, Hydrogen, Oxygen, Nitrogen, and Sulfer; PONCH: phosphorus, oxygen, nitrogen, carbon, and hydrogen; CHO:: carbon, hydrogen, and oxygen
 
