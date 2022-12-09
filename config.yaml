@@ -23,9 +23,8 @@ params:
   title: "Tiger Home Work Help"
   description: "Get help for your classes"
   author: ["Aamir", "Michael"]
-  UseHugoToc: true
+  ShowToc: true
   defaultTheme: auto
-  ShowShareButtons: true
   ShowReadingTime: true
   ShowCodeCopyButtons: false
   images: '/static/tiger.png'
