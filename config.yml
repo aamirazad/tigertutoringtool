@@ -10,8 +10,6 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 taxonomies:
-  category: categories
-  tag: tags
   teacher: teacher
   class: class
 
@@ -68,23 +66,19 @@ params:
 menu:
   main:
     - identifier: home
-      name: home
+      name: Home
       url: /
       weight: 1
     - identifier: teacher
-      name: teacher
+      name: Teacher
       url: /teacher/
       weight: 10
-    - identifier: tags
-      name: class
-      url: /class/
-      weight: 20
     - indentifier: search
-      name: search
+      name: Tearch
       url: /search/
       weight: 30
     - identifier: signin
-      name: sign in
+      name: Log In
       url: /signin/
       weight: 40
 
