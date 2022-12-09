@@ -34,9 +34,6 @@ params:
   label:
     label.icon: '/static/tiger.png'
     label.iconHeight: 35
-  homeInfoParams:
-    Title: Hi there,
-    Content: Let's Learn
   fuseOpts:
       isCaseSensitive: false
       shouldSort: true
