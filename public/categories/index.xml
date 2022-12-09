@@ -5,25 +5,6 @@
     <link>https://tigertutoringtool.aamira.me/categories/</link>
     <description>Recent content in Categories on Tiger Tutoring Tool</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 07 Dec 2022 19:16:46 -0500</lastBuildDate><atom:link href="https://tigertutoringtool.aamira.me/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Murphy</title>
-      <link>https://tigertutoringtool.aamira.me/categories/murphy/</link>
-      <pubDate>Wed, 07 Dec 2022 19:16:46 -0500</pubDate>
-      
-      <guid>https://tigertutoringtool.aamira.me/categories/murphy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tinker</title>
-      <link>https://tigertutoringtool.aamira.me/categories/tinker/</link>
-      <pubDate>Wed, 07 Dec 2022 19:16:46 -0500</pubDate>
-      
-      <guid>https://tigertutoringtool.aamira.me/categories/tinker/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://tigertutoringtool.aamira.me/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
