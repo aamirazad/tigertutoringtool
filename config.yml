@@ -74,7 +74,7 @@ menu:
       url: /teacher/
       weight: 10
     - indentifier: search
-      name: Tearch
+      name: Search
       url: /search/
       weight: 30
     - identifier: signin
