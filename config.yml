@@ -77,11 +77,11 @@ menu:
       url: /posts/
       weight: 2
     - identifier: categories
-      name: categories
+      name: teacher
       url: /categories/
       weight: 10
     - identifier: tags
-      name: tags
+      name: class
       url: /tags/
       weight: 20
     - indentifier: search
