@@ -45,7 +45,7 @@ Van der Waals force
 
 * Covalent and ionic bonds? A covelent bond occurs when two atoms each with one electron both need an atom so they share the electron. A ionic bond occurs when a electron is transfered from one atom to another
 
-* What does atomos mean? "It means ""unable to be cut"""
+* What does atomos mean? It means "unable to be cut"
 
 * What is biochemistry? Biochemistry is the study of all compunds containing carbon
 
