@@ -9,9 +9,15 @@ teacher:
 
 ## Vocab
 
-* **What is Cohesion/Adhesion?** Chohesion is the attraction between molecules of the same substance. Adhesion is attraction of molecules of diffrent substances.
+Cohesion/Adhesion
+: Cohesion is the attraction of molecules of the same substance. How to remember Cohesion?: Use a story: I and my COmpanion are the same. The “CO” in Cohesion is the same as the “CO” in Companion.
 
-* **What is Van der Waals force?** There is a slight attraction between oppositly charged regions of atrracion. Think gecko
+Adhesion
+: Adhesion is the attraction of molecules of different substances. Way to remember Adhesions?: I use ADhesive tape. You usually use tape to attach two different things together. Another example is: water sticking to a window. The water is sticking to the glass, these are two different substances attracted to each other.
+
+
+Van der Waals force
+: Van der Waals force is the slight attraction that develops between oppositly charged regions of molecules. How to remember Van der Waals force: Two oppositly charged molecules attract to each other, like a magnet. (+ and –) The more molecules that are close to each other, the more Van der Waals force
 
 * **What is the polar covalent bond?** Two atoms are sharing electrons. They are pulling on that electron equally
 
