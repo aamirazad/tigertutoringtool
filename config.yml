@@ -49,7 +49,7 @@ outputs:
 
 params:
   homeInfoParams:
-    Title: Hi there
+    Title: Hi there,
     Content: Let's Learn
     fuseOpts:
         isCaseSensitive: false
