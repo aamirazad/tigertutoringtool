@@ -2,35 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tigertutoringtool.aamira.me/teacher/geomatry/</loc>
-    <lastmod>2022-12-08T22:02:58-05:00</lastmod>
+    <loc>https://tigertutoringtool.aamira.me/classes/</loc>
+    <lastmod>2022-12-08T21:36:54-05:00</lastmod>
   </url><url>
-    <loc>https://tigertutoringtool.aamira.me/teacher/murphy/</loc>
-    <lastmod>2022-12-08T22:02:58-05:00</lastmod>
-  </url><url>
-    <loc>https://tigertutoringtool.aamira.me/teacher/</loc>
-    <lastmod>2022-12-08T22:02:58-05:00</lastmod>
+    <loc>https://tigertutoringtool.aamira.me/classes/tinker/biochemistry/</loc>
+    <lastmod>2022-12-08T21:36:54-05:00</lastmod>
   </url><url>
     <loc>https://tigertutoringtool.aamira.me/teacher/</loc>
-    <lastmod>2022-12-08T22:02:58-05:00</lastmod>
+    <lastmod>2022-12-08T21:36:54-05:00</lastmod>
   </url><url>
     <loc>https://tigertutoringtool.aamira.me/</loc>
-    <lastmod>2022-12-08T22:02:58-05:00</lastmod>
-  </url><url>
-    <loc>https://tigertutoringtool.aamira.me/teacher/tinker/biochemistry/</loc>
     <lastmod>2022-12-08T21:36:54-05:00</lastmod>
   </url><url>
     <loc>https://tigertutoringtool.aamira.me/teacher/tinker/</loc>
     <lastmod>2022-12-08T21:36:54-05:00</lastmod>
-  </url><url>
-    <loc>https://tigertutoringtool.aamira.me/categories/</loc>
   </url><url>
     <loc>https://tigertutoringtool.aamira.me/class/</loc>
   </url><url>
     <loc>https://tigertutoringtool.aamira.me/search/</loc>
   </url><url>
     <loc>https://tigertutoringtool.aamira.me/signin/</loc>
-  </url><url>
-    <loc>https://tigertutoringtool.aamira.me/tags/</loc>
   </url>
 </urlset>
