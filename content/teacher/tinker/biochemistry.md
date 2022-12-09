@@ -28,15 +28,26 @@ Non-polar covalent bond
 Monomers of PNCL
 : A Protein's monomer is Amino acids, Nucleic acids is Nucleotides, Carbohydrates is Monosaccharide, and Lipids is Glycerol with a Fatty Acid
 
-How to remember?:
-Proteins: A mean Cow. Cows have lots of protein. A mean sounds like Amino. 
+How to remember?
+: Proteins: A mean Cow. Cows have lots of protein. A mean sounds like Amino. 
 Nucleic Acids: Nucleo is written the same as Nucleic. 
 Carbohydrates: Knowing the simpler meaning of monosaccharides, one sugar, can be easier to remember.
 Lipids: Guys are fat. Glycerol starts with Guys. Fat is the same as Fatty Acid
 
-* PNCL Park macromolecules are made of what elements? CHONS: Carbon, Hydrogen, Oxygen, Nitrogen, and Sulfer; PONCH: phosphorus, oxygen, nitrogen, carbon, and hydrogen; CHO:: carbon, hydrogen, and oxygen
+### CHONS, PONCH, CHO, CHO!!!!
+Chons
+: Carbon, hydogen, oxygen, nitrogen,sulfur. 
+Ponch
+: phosphorus, oxygen, Nitrogen, carbon, hydrogen.
+Cho
+: carbon, hydrogen, oxygen.
 
-* Saturated/Unsaturaed fatty acid? In a saturated fatty acid, saturated does not have any double bonds meaning it can hold as many hydrogen it can. Unsaturated has a dobule bond
+How to know the order of the elements are listed in 
+: CHONS PONCH CHO CHO! And you can remember PNCL. You can remember this by PNC Park with L for looser. Chons-Protein Ponch-Nitrogen Cho-carbs cho-Lipids.
+
+Saturated/Unsaturated fatty acid
+: Saturated fatty acids are acids full of Hydrogen atoms, and unsaturdated is not full of hydrogens
+![fatty acid](acid.png)
 
 * What is a substrate? A substrate is the compound that the enzyme reacts with at the active site
 
