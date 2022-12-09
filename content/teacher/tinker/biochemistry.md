@@ -36,9 +36,11 @@ Lipids: Guys are fat. Glycerol starts with Guys. Fat is the same as Fatty Acid
 
 ### CHONS, PONCH, CHO, CHO!!!!
 Chons
-: Carbon, hydogen, oxygen, nitrogen,sulfur. 
+: Carbon, hydogen, oxygen, nitrogen,sulfur.
+
 Ponch
 : phosphorus, oxygen, Nitrogen, carbon, hydrogen.
+
 Cho
 : carbon, hydrogen, oxygen.
 
