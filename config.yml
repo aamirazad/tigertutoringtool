@@ -25,23 +25,14 @@ params:
   title: "Tiger Home Work Help"
   description: "Get help for your classes"
   author: ["Aamir", "Michael"]
-  defaultTheme: auto
+  ShowToc: true
   ShowShareButtons: true
   ShowReadingTime: true
-  showtoc: true
   ShowCodeCopyButtons: false
-  images: '/static/tiger.png'
   keywords: [school, help, homework]
-  ShowToc: true
   ShowBreadCrumbs: true
-  label:
-    label.icon: '/static/tiger.png'
-    label.iconHeight: 35
 
-params:
   CommentoURL: "https://cdn.commento.io/js/commento.js"
-
-
 
 
 outputs:
@@ -63,8 +54,7 @@ params:
         minMatchCharLength: 0
         keys: ["title", "permalink", "summary", "content"]
     assets:
-      favicon16x16: "/favicon-16x16.png"
-      favicon32x32: "/favicon-32x32.png"
+
 
 menu:
   main:
