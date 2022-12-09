@@ -1,8 +1,8 @@
 ---
-title: "Biochemistry"
+title: "Honors Biology Biochem Quiz Tutoring"
 date: 2022-12-08T21:36:54-05:00
 draft: false
-author: ["Aamir"]
+author: ["Aamir", "Michael"]
 teacher:
 - Tinker
 ---
@@ -19,11 +19,14 @@ Adhesion
 Van der Waals force
 : Van der Waals force is the slight attraction that develops between oppositly charged regions of molecules. How to remember Van der Waals force: Two oppositly charged molecules attract to each other, like a magnet. (+ and –) The more molecules that are close to each other, the more Van der Waals force
 
-* **What is the polar covalent bond?** Two atoms are sharing electrons. They are pulling on that electron equally
+Polar covalent bond
+: A polar covalent bond is the uneven sharing of elections between two atoms. How to remember A polar covalent bond?: A story: Santa unevenly shared the presents. Santa lives in the North “Pole.”
 
-* **What is a non-polar covalent bond?** When two atoms are sharing a electron, one has more protons so they pull on that electron more than others
+Non-polar covalent bond
+: A Non-polar covalent bond is the equal sharing of elections between two atoms. How to remember Nonpolar covalent bonds?: Santa shares his presents equally. Remember this vocab word by knowing the opposite (Santa unevenly shared the presents (polar covalent bond)).
 
-* What are the monomers of PNCL? The four monomers is amino acid, nucleotides, monosaccharide, and glycerol (combined with a fatty acid)
+Monomers of PNCL
+: The four monomers is amino acid, nucleotides, monosaccharide, and glycerol (combined with a fatty acid)
 
 * PNCL Park macromolecules are made of what elements? CHONS: Carbon, Hydrogen, Oxygen, Nitrogen, and Sulfer; PONCH: phosphorus, oxygen, nitrogen, carbon, and hydrogen; CHO:: carbon, hydrogen, and oxygen
 
