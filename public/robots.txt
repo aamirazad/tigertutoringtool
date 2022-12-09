@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tigertutoringtool.aamira.me/sitemap.xml
