@@ -34,20 +34,6 @@ params:
   label:
     label.icon: '/static/tiger.png'
     label.iconHeight: 35
-
-params:
-  CommentoURL: "https://cdn.commento.io/js/commento.js"
-
-
-
-
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON
-
-params:
   homeInfoParams:
     Title: Hi there,
     Content: Let's Learn
@@ -62,7 +48,11 @@ params:
     assets:
       favicon16x16: "/favicon-16x16.png"
       favicon32x32: "/favicon-32x32.png"
-
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
 menu:
   main:
     - identifier: home
