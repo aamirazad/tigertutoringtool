@@ -12,8 +12,8 @@ enableEmoji: true
 taxonomies:
   category: categories
   tag: tags
-  tinker: tinker
-
+  teacher: teacher
+  class: class
 
 module:
   imports:
@@ -76,13 +76,13 @@ menu:
       name: posts
       url: /posts/
       weight: 2
-    - identifier: categories
+    - identifier: teacher
       name: teacher
-      url: /categories/
+      url: /teacher/
       weight: 10
     - identifier: tags
       name: class
-      url: /tags/
+      url: /class/
       weight: 20
     - indentifier: search
       name: search
@@ -92,3 +92,4 @@ menu:
       name: sign in
       url: /signin/
       weight: 40
+
