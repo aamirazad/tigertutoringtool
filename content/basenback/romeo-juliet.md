@@ -65,7 +65,8 @@ You can use clues from how the characters act or what they say, or you can look 
 4. Tybalt’s name comes from the word that means “bold.” Benvolio is from Latin words that mean, “I wish” and “well.” From what you know about them so far, how appropriate are their names? 
 
 The best example is when the two characters enter into a fight with the servants. Tybalt acts differently than Benvolio. Search in the play where the two characters enter the scene, and analyze how each reacts to the fight. 
-hi
+
+
 
 
 
