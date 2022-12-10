@@ -1,7 +1,7 @@
 ---
 title: "Romeo and Juliet"
 date: 2022-12-09T20:43:44-05:00
-draft: true
+draft: false
 author: ["Michael"]
 teacher:
  - Basenback
