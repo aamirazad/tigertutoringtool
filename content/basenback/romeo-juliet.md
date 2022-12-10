@@ -66,6 +66,29 @@ You can use clues from how the characters act or what they say, or you can look 
 
 The best example is when the two characters enter into a fight with the servants. Tybalt acts differently than Benvolio. Search in the play where the two characters enter the scene, and analyze how each reacts to the fight. 
 
+Summarize the warning that the Prince issues to the Monatgues and Capulets in this speech. Why is he so upset. 
+
+Lines 97 -119 reveals the Princes intentions. Observe the Princes tone, and expeirence with the two families. Still need help? Look for key words such as death and peace.
+
+Who stops the brawl between the Monatgues and the Capulets. 
+
+Look for stage cues, revealing the answer. 
+
+What does this conversation reveal about Romeo's state of mind? 
+
+Romeo uses a lot of euphemisms (Oxford Languages: a mild or indirect word or expression substituted for one considered to be too harsh or blunt when referring to something unpleasant or embarrassing). These euphemisms can reveal some of his state of mind. Still need help? look for key words such as I, or she to show his state of mind. 
+
+What is an Oxymoron? 
+
+Check Notes. 
+
+What reason for his sadness does Benvolio give to Romeo about the woman he loves. 
+
+Romeo mentions this many times. hint: In Elizabethan England being pure was very important. 
+
+What advice does Benvolio give to Romeo about the woman he loves? 
+
+You can connect Benvolio's advice to what his name means ("I wish" and "well") He is very relaxed, with simple solutions that aren't thought of quickly. Romeo has a negative reaction to Benvolio's statement. 
 
 
 
