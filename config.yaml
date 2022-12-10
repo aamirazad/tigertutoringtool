@@ -48,9 +48,15 @@ params:
   assets:
     favicon16x16: "/favicon-16x16.png"
     favicon32x32: "/favicon-32x32.png"
-  homeInfoParams:
-    Title: Hi there
-    Content: Let's Learn
+  profileMode:
+    enabled: true
+    title: "<Tiger Tutoring Tool>"
+    imageUrl: "tiger.png"
+    imageWidth: 400
+    imageHeight: 400
+    buttons:
+        - name: Browse
+          url: "/teacher/"
 
 outputs:
   home:

@@ -2,10 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tigertutoringtool.aamira.me/classes/</loc>
-    <lastmod>2022-12-08T21:36:54-05:00</lastmod>
-  </url><url>
-    <loc>https://tigertutoringtool.aamira.me/classes/tinker/biochemistry/biochemistry/</loc>
+    <loc>https://tigertutoringtool.aamira.me/tinker/biochemistry/</loc>
     <lastmod>2022-12-08T21:36:54-05:00</lastmod>
   </url><url>
     <loc>https://tigertutoringtool.aamira.me/teacher/</loc>
@@ -15,6 +12,9 @@
     <lastmod>2022-12-08T21:36:54-05:00</lastmod>
   </url><url>
     <loc>https://tigertutoringtool.aamira.me/teacher/tinker/</loc>
+    <lastmod>2022-12-08T21:36:54-05:00</lastmod>
+  </url><url>
+    <loc>https://tigertutoringtool.aamira.me/tinker/</loc>
     <lastmod>2022-12-08T21:36:54-05:00</lastmod>
   </url><url>
     <loc>https://tigertutoringtool.aamira.me/class/</loc>

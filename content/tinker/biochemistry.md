@@ -73,3 +73,6 @@ Saturated/Unsaturated fatty acid
 
 * pH? The pH of a solution depends on the concentration of H+ ions in that solution. The solution is acidic when it has a lot of H+ ions and is basic when it has more OH- ions? 
 
+
+
+<div id="commento"></div>
