@@ -48,7 +48,7 @@ How to know the order of the elements are listed in
 : CHONS PONCH CHO CHO! And you can remember PNCL. You can remember this by PNC Park with L for looser. Chons-Protein Ponch-Nitrogen Cho-carbs cho-Lipids.
 
 Saturated/Unsaturated fatty acid
-: Saturated fatty acids are acids full of Hydrogen atoms, and unsaturdated is not full of hydrogens
+: Saturated fatty acids are acids full of Hydrogen atoms, and unsaturated is not full of hydrogens
 ![fatty acid](images/acid.png)
 
 * What is a substrate? A substrate is the compound that the enzyme reacts with at the active site
