@@ -1,5 +1,5 @@
 ---
-title: "Romeo and Juliet"
+title: "Romeo and Juliet Act 1"
 date: 2022-12-09T20:43:44-05:00
 draft: false
 author: ["Michael"]
@@ -89,6 +89,33 @@ Romeo mentions this many times. hint: In Elizabethan England being pure was very
 What advice does Benvolio give to Romeo about the woman he loves? 
 
 You can connect Benvolio's advice to what his name means ("I wish" and "well") He is very relaxed, with simple solutions that aren't thought of quickly. Romeo has a negative reaction to Benvolio's statement. 
+
+## Act 1, Scene 2
+
+Why does Capulet's servant talk to Romeo and Benvolio. 
+
+Put yourself in the Elizabethean era. Many servants were less fortunate people. We can re-write this question to: Why would a servant ask for help? Hint: In shaekspears age only the wealthy were educated. 
+
+Chance plays an important part in the events of the play. How do you think this chance meeting (between Capulet's Servant and Romeo) will advance the plot. 
+
+What we know from the text is that Romeo and Benvolio have been invited to a dinner. We also know from Scene 1 that Romeo is heart broken. Now, apply this to the question. Hint: what families are the characters in the scene from? 
+
+What important information in the stage directions clarifies Romeo's speech here (lines 63-67) 
+
+Look in Romeo's speech when reading the note. Hint: Stage directions are usually in the beginning or end of the speech and in parenthesis. 
+
+## Act 1, Scene 3 
+
+How old is Juliet
+
+Look in Capulet's speech. He mentions that she is not ready to be married. Hint: Most girls and boys were married young for either political or financial reasons. 
+
+What do the Nurse's words reveal about her devotion to Juliet. 
+
+Look in lines (387 -409). The Nurses speech reveals that she has a long history with Juliet. The Nurse probabaly took care of her since birth. 
+
+
+
 
 
 
