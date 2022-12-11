@@ -31,7 +31,7 @@ params:
   keywords: [school, help, homework]
   ShowBreadCrumbs: true
   label:
-    label.icon: '/static/tiger.png'
+    label.icon: 'static/tiger.png'
     label.iconHeight: 35
   fuseOpts:
       isCaseSensitive: false
