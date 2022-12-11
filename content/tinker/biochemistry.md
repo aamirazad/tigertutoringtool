@@ -49,7 +49,7 @@ How to know the order of the elements are listed in
 
 Saturated/Unsaturated fatty acid
 : Saturated fatty acids are acids full of Hydrogen atoms, and unsaturated is not full of hydrogens
-![fatty acid](acid.png)
+![fatty acid](https://tigertutoringtool.aamira.me/tinker/images/acid.png)
 
 * What is a substrate? A substrate is the compound that the enzyme reacts with at the active site
 
