@@ -111,11 +111,33 @@ Look in Romeo's speech when reading the note. Hint: Stage directions are usually
 
 13. *How old is Juliet?*
 
-Look in Capulet's speech. He mentions that she is not ready to be married. Hint: Most girls and boys were married young for either political or financial reasons. 
+Look to the beginning of the scene where the Nurse and Lady Capulet are talking about Juliet. Hint: It seems that they are using the Lammastide event (an event celbrateing the harvest) as a way to keep track of her age. What to learn more about Lammastide? check out this website: [Juliet’s birthday: Shakespeare and Lammas-tide](http://theshakespeareblog.com/2013/07/juliets-birthday-shakespeare-and-lammas-tide/)
 
 14. *What do the Nurse's words reveal about her devotion to Juliet?*
 
 Look in lines (387 -409). The Nurses speech reveals that she has a long history with Juliet. The Nurse probabaly took care of her since birth.
+
+15. What does the converstaion reveal about the Nurse's personality. 
+
+The nurse makes many innapropriate jokes and references, and seems to find them amusing. She also seems to mention what specific aspect what Paris? Physical, personality, or status? 
+
+16. What does the dialouge reveal about Juliet's attitude toward marriage and Paris? 
+
+Juliet tries to keep respectful when reveling her atttitude. Hint: look for key words such as "marry" and "Dream." 
+
+17. Why has Lady Capulet come to talk to Juliet? 
+
+This is the main topic of their dialouge. 
+
+18. What does lady Capulet compare Paris to? 
+
+Lady Capulet uses words like "pen," "volume," and "written," what are these words usually acossiated with?
+
+Act 1, Scene 4. 
+
+19. What does Benvolio's plan suggest about his personality? 
+
+
 
 
 
