@@ -77,4 +77,7 @@ menu:
       name: Search
       url: /search/
       weight: 30
-
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 40
