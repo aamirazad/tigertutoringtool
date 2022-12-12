@@ -9,12 +9,11 @@ teacher:
 
 ## Vocab
 
-Cohesion/Adhesion
+Cohesion
 : Cohesion is the attraction of molecules of the same substance. How to remember Cohesion?: Use a story: I and my COmpanion are the same. The “CO” in Cohesion is the same as the “CO” in Companion.
 
 Adhesion
 : Adhesion is the attraction of molecules of different substances. Way to remember Adhesions?: I use ADhesive tape. You usually use tape to attach two different things together. Another example is: water sticking to a window. The water is sticking to the glass, these are two different substances attracted to each other.
-
 
 Van der Waals force
 : Van der Waals force is the slight attraction that develops between oppositly charged regions of molecules. How to remember Van der Waals force: Two oppositly charged molecules attract to each other, like a magnet. (+ and –) The more molecules that are close to each other, the more Van der Waals force
@@ -53,15 +52,15 @@ Saturated/Unsaturated fatty acid
 
 * What is a substrate? A substrate is the compound that the enzyme reacts with at the active site
 
-* What is the Lock-and-key and induced-fit model?? The lock-and-key model states that the active site of an enzyme only fits a specific substrate. The induced-fit model sates the active site will change its shape to fit their substrate
+* What is the Lock-and-key and induced-fit model? The lock-and-key model states that the active site of an enzyme only fits a specific substrate. The induced-fit model sates the active site will change its shape to fit their substrate
 
 * What factors effect enzymes? Temparature, pH, and pressure are all factors that can effect an enzyme
 
 * What is a reactant? A reactant is an element or compund that enters a chemical rxn
 
-* What is a product?? A product is a element or compund produced by a chemical rxn
+* What is a product? A product is a element or compund produced by a chemical rxn
 
-* What is the denaturing of a enzyme?? A enzyme is denatured when its shape is changed making them non-functional
+* What is the denaturing of a enzyme? A enzyme is denatured when its shape is changed making them non-functional
 
 * What do hydrogen bonds do? Hydrogen atom bonds occur when a hydrogen atom covalently (share an electron) bonds to a oxygen or nitrogen atom
 
@@ -71,8 +70,4 @@ Saturated/Unsaturated fatty acid
 
 * What is biochemistry? Biochemistry is the study of all compunds containing carbon
 
-* pH? The pH of a solution depends on the concentration of H+ ions in that solution. The solution is acidic when it has a lot of H+ ions and is basic when it has more OH- ions? 
-
-
-
-<div id="commento"></div>
+* pH? The pH of a solution depends on the concentration of H+ ions in that solution. The solution is acidic when it has a lot of H+ ions and is basic when it has more OH- ions
