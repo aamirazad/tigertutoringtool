@@ -53,24 +53,27 @@ If you like civics, ask yourself what is the purpose of the preamble of the cons
 
 1. The first scene of every Shakespeare tragedy was planned to get the attention of the groundlings, people of the lower classes who stood in the pit to watch the plays. Why might Scene 1 have appealed to the groundlings? 
 ![groundlings](https://tigertutoringtool.aamira.me/basenback/images/groundlings.jpg)
+
 This is a picture of groundlings (people standing below the stage). The groundlings had a front-row view. Ask yourself, what would you like to see close up, especially from the first scene? This can be opinionated but put yourself back in Shakespeare's day, and assume what the average person would like to see. 
 
 
 2. Which words in the stage directions in line 44 clarify that Sampson is not speaking to Abram? 
+
 Stage directions are often at the beginning or end of the poems.
 
 3. With which family are the quarreling servants affiliated? 
+
 You can use clues from how the characters act or what they say, or you can look at the cast. 
 
 4. Tybalt’s name comes from the word that means “bold.” Benvolio is from Latin words that mean, “I wish” and “well.” From what you know about them so far, how appropriate are their names? 
 
 The best example is when the two characters enter into a fight with the servants. Tybalt acts differently than Benvolio. Search in the play where the two characters enter the scene, and analyze how each reacts to the fight. 
 
-5. Summarize the warning that the Prince issues to the Monatgues and Capulets in this speech. Why is he so upset. 
+5. Summarize the warning that the Prince issues to the Monatgues and Capulets in this speech. Why is he so upset? 
 
 Lines 97 -119 reveals the Princes intentions. Observe the Princes tone, and expeirence with the two families. Still need help? Look for key words such as death and peace.
 
-6. Who stops the brawl between the Monatgues and the Capulets. 
+6. Who stops the brawl between the Monatgues and the Capulets? 
 
 Look for stage cues, revealing the answer. 
 
@@ -82,7 +85,7 @@ What is an Oxymoron?
 
 Check Notes. 
 
-8. What reason for his sadness does Benvolio give to Romeo about the woman he loves. 
+8. What reason for his sadness does Benvolio give to Romeo about the woman he loves?
 
 Romeo mentions this many times. hint: In Elizabethan England being pure was very important. 
 
@@ -106,11 +109,11 @@ Look in Romeo's speech when reading the note. Hint: Stage directions are usually
 
 ## Act 1, Scene 3 
 
-13. How old is Juliet
+13. How old is Juliet?
 
 Look in Capulet's speech. He mentions that she is not ready to be married. Hint: Most girls and boys were married young for either political or financial reasons. 
 
-14. What do the Nurse's words reveal about her devotion to Juliet. 
+14. What do the Nurse's words reveal about her devotion to Juliet?
 
 Look in lines (387 -409). The Nurses speech reveals that she has a long history with Juliet. The Nurse probabaly took care of her since birth. 
 
