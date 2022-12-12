@@ -41,10 +41,6 @@ params:
       threshold: 0.4
       minMatchCharLength: 0
       keys: ["title", "permalink", "summary", "content"]
-  editPost:
-    URL: "https://github.com/aamirazad/tigertutoringtool/tree/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
   assets:
     favicon16x16: "/favicon-16x16.png"
     favicon32x32: "/favicon-32x32.png"
