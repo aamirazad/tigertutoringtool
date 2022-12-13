@@ -12,4 +12,4 @@ teacher:
 
 ## *Deep* Understanding
 
-Unit three is all about the U.S. contitution. The contitution was created seperaed into 7 articles. Each article contributing to make a 
+Unit three is all about the U.S. contitution. The contitution was created seperated into 7 articles. Each article contributing to make a 
