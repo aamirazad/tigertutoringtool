@@ -6,5 +6,8 @@ author: ["Aamir"]
 teacher:
  - Hurd
 ---
-
+## Quizlet
 {{< hurd/unit-three >}}
+
+
+## *Deep* Understanding
