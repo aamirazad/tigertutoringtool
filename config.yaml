@@ -48,8 +48,8 @@ params:
     enabled: true
     title: "<Tiger Tutoring Tool>"
     imageUrl: "tiger.png"
-    imageWidth: 438
-    imageHeight: 438
+    imageWidth: 375
+    imageHeight: 375
     buttons:
         - name: Browse
           url: "/teacher/"
