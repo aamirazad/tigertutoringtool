@@ -117,31 +117,22 @@ Look to the beginning of the scene where the Nurse and Lady Capulet are talking 
 
 Look in lines (387 -409). The Nurses speech reveals that she has a long history with Juliet. The Nurse probabaly took care of her since birth.
 
-15. What does the converstaion reveal about the Nurse's personality. 
+15. *What does the converstaion reveal about the Nurse's personality.* 
 
 The nurse makes many innapropriate jokes and references, and seems to find them amusing. She also seems to mention what specific aspect what Paris? Physical, personality, or status? 
 
-16. What does the dialouge reveal about Juliet's attitude toward marriage and Paris? 
+16. *What does the dialouge reveal about Juliet's attitude toward marriage and Paris?* 
 
 Juliet tries to keep respectful when reveling her atttitude. Hint: look for key words such as "marry" and "Dream." 
 
-17. Why has Lady Capulet come to talk to Juliet? 
+17. *Why has Lady Capulet come to talk to Juliet?* 
 
 This is the main topic of their dialouge. 
 
-18. What does lady Capulet compare Paris to? 
+18. *What does lady Capulet compare Paris to?* 
 
 Lady Capulet uses words like "pen," "volume," and "written," what are these words usually acossiated with?
 
-Act 1, Scene 4. 
+## Act 1, Scene 4. 
 
-19. What does Benvolio's plan suggest about his personality? 
-
-
-
-
-
-
-
-
-
+19. *What does Benvolio's plan suggest about his personality?* 
