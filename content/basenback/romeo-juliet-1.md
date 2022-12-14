@@ -119,7 +119,7 @@ Look in lines (387 -409). The Nurses speech reveals that she has a long history 
 
 15. *What does the converstaion reveal about the Nurse's personality.* 
 
-The nurse makes many innapropriate jokes and references, and seems to find them amusing. She also seems to mention what specific aspect what Paris? Physical, personality, or status? 
+The nurse makes many innapropriate jokes and references, and seems to find them amusing. She also seems to mention what specific aspect of Paris? Physical, personality, or status? 
 
 16. *What does the dialouge reveal about Juliet's attitude toward marriage and Paris?* 
 
@@ -136,3 +136,32 @@ Lady Capulet uses words like "pen," "volume," and "written," what are these word
 ## Act 1, Scene 4. 
 
 19. *What does Benvolio's plan suggest about his personality?* 
+
+Towards the end Benvolio says, "But let them measure us by what they will. We'll measure them a measure and be gone" (Shakespeare 1.4. 491-492). What can we assume from this excerpt? Hint: Re-write the question as: let them talk what they want about us, and we will do the same to them. Also if you want to learn more about citing shakespeare with intext citations, here's a cool website that I (Micahel) used to cite the quote above [How to cite Shakespeare in MLA](https://www.scribbr.com/mla/shakespeare-citation/)
+
+20. *What contrast between Mercutio and Romeo does the dialouge reveal*
+
+Romeo often talks about love and being sad. Does Mercutio agree with this or not? Hint: use question 23 to help you, or use this question to help you with number 23! 
+
+21. *How does Romeo feel about going to the Capulets' feast?* 
+
+Romeo talks about having a dream. Why might he mention this? Use question 20 to help you with your answer. Hint: move to question 22 and find the answer, then apply that knowledge to this question. 
+
+22. *Summarize Mercutio's speech about Queen Mab* 
+
+Look at line 558-561. These lines are comparing a person to what they would want. I.e. A lover dreams of love. So what do the person dreams depend on? 
+
+23. *What do Mercutio's comments about dreams reveal about his character*
+
+Mercutio talks about dreams in a positive or negative tone? Look towards the beginning of the scene where Romeo and Mercutio go back and forth. Hint: look at lines 585-592. 
+
+
+
+
+
+
+
+
+
+
+
