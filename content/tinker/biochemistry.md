@@ -8,7 +8,8 @@ teacher:
 ---
  
 ## Vocab
- 
+Biochemistry
+: Biochemistry is the study of all compounds containing carbon
 ### The three Subatomic particles
 Proton
 : Found in the nucleus of an atom, the clump in the middle. It has a positive charge. Remember, the **P**roton has a **P**ositive charge. The number of protons a atom is represented by its atomic number. If it has 3 protons, then it has an atomic number of 3. The protons also 
@@ -22,7 +23,7 @@ Isotopes
 Electron
 : These are the things that orbit the nucleus. They have a negative charge. There are three rings. The closest one to the nucleus can hold a maximum of 2 electrons. The next one can hold up to 8 electrons and so can the last ring.
 
-
+### Attraction and bonds
 Cohesion
 : Cohesion is the attraction of molecules of the same substance. How to remember Cohesion?: Use a story: I and my COmpanion are the same. The “CO” in Cohesion is the same as the “CO” in Companion.
  
@@ -38,6 +39,7 @@ Polar covalent bond
 Non-polar covalent bond
 : A Non-polar covalent bond is the equal sharing of elections between two atoms. How to remember Nonpolar covalent bonds?: Santa shares his presents equally. Remember this vocab word by knowing the opposite (Santa unevenly shared the presents (polar covalent bond)).
  
+### PNCL park
 Monomers of PNCL
 : A Protein's monomer is Amino acids, Nucleic acids is Nucleotides, Carbohydrates is Monosaccharide, and Lipids is Glycerol with a Fatty Acid
  
@@ -47,7 +49,7 @@ Nucleic Acids: Nucleo is written the same as Nucleic.
 Carbohydrates: Knowing the simpler meaning of monosaccharides, one sugar, can be easier to remember.
 Lipids: Guys are fat. Glycerol starts with Guys. Fat is the same as Fatty Acid
  
-### CHONS, PONCH, CHO, CHO!!!!
+#### CHONS, PONCH, CHO, CHO!!!!
 Chons
 : Carbon, hydrogen, oxygen, nitrogen,sulfur.
  
@@ -64,25 +66,32 @@ Saturated/Unsaturated fatty acid
 : Saturated fatty acids are acids full of Hydrogen atoms, and unsaturated is not full of hydrogens
 ![fatty acid](https://tigertutoringtool.aamira.me/tinker/images/acid.png)
  
-* What is a substrate? A substrate is the compound that the enzyme reacts with at the active site
+### Reactions
+Substrate? 
+: A substrate is the compound that the enzyme reacts with at the active site
  
-* What is the Lock-and-key and induced-fit model? The lock-and-key model states that the active site of an enzyme only fits a specific substrate. The induced-fit model sates the active site will change its shape to fit their substrate
+Lock-and-key
+:The lock-and-key model states that the active site of an enzyme only fits a specific substrate.
+
+Induced-fit model
+: The induced-fit model sates the active site will change its shape to fit their substrate
+
+What factors effect enzymes? 
+: Temperature, pH, and pressure are all factors that can effect an enzyme
  
-* What factors effect enzymes? Temperature, pH, and pressure are all factors that can effect an enzyme
+Reactant 
+: A reactant is an element or compound that enters a chemical rxn
  
-* What is a reactant? A reactant is an element or compound that enters a chemical rxn
+Product
+: A product is a element or compound produced by a chemical rxn
  
-* What is a product? A product is a element or compound produced by a chemical rxn
+Denaturing of a enzyme
+: A enzyme is denatured when its shape is changed making them non-functional
  
-* What is the denaturing of a enzyme? A enzyme is denatured when its shape is changed making them non-functional
+Hydrogen bonds
+: Hydrogen atom bonds occur when a hydrogen atom covalently (share an electron) bonds to a oxygen or nitrogen atom
  
-* What do hydrogen bonds do? Hydrogen atom bonds occur when a hydrogen atom covalently (share an electron) bonds to a oxygen or nitrogen atom
- 
-* Covalent and ionic bonds? A covalent bond occurs when two atoms each with one electron both need an atom so they share the electron. A ionic bond occurs when a electron is transferred from one atom to another
- 
-* What does atomos mean? It means "unable to be cut"
- 
-* What is biochemistry? Biochemistry is the study of all compounds containing carbon
+
  
 * pH? The pH of a solution depends on the concentration of H+ ions in that solution. The solution is acidic when it has a lot of H+ ions and is basic when it has more OH- ions 
 
