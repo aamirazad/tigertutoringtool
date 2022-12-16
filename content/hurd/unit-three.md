@@ -1,10 +1,10 @@
 --- 
- title: "Unit 3" 
- date: 2022-12-12T21:15:22-05:00 
- draft: true 
- author: ["Aamir"] 
- teacher: 
-  - Hurd 
+title: "Unit 3" 
+date: 2022-12-12T21:15:22-05:00 
+draft: true 
+author: ["Aamir"] 
+teacher: 
+ - Hurd 
  --- 
  ## Quizlet 
  {{< hurd/unit-three >}} 
@@ -22,4 +22,3 @@
  That's right, the preamble is not article 1. Article 1 is the longest part of the constitution creating only one of the three branches of government, the Legislative branch. The Legislative branch makes the laws. A way to remember: Legislative and law both start with L. The Legislative branch  
   
  Unit three is all about the **U.S. constitution**. The constitution was created separated into 7 articles. Each article contributing to make a 
-
