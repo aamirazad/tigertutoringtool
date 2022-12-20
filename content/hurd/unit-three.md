@@ -23,7 +23,7 @@ That's right, the preamble is not article 1. Article 1 is the longest part of th
 
 ### Article 2 
 
-Article 2 is the second longest part of the Constitution. It creates the Executive branch of government. The Executive branch is in charge of enforcing the laws. Remember: The **Execut**ive branch **execut**es the laws. The Executive branch is made up of the President and the Vice President. 
+Article 2 is the second-longest part of the Constitution. It creates the Executive branch of government. The Executive branch is in charge of enforcing the laws. Remember: The **Execut**ive branch **execut**es the laws. The Executive branch is made up of the President and the Vice President. 
 
 ### Article 3 
 
@@ -68,4 +68,4 @@ Federalism is a system of government where the government is divided between the
 
 ### The Amendment Process
 
-An Amendment is a change made to the Constitution. The Amendment Process describes how that happens. Step 1: Congress proposes a amendments by a 2/3 vote in each house or 2/3 of the legislatures ask Congress to call a constitutional convention. Step 2: 3/4 or 34 states say ok (called ratifying). The Constitution has been ratified 27 times.
+An Amendment is a change made to the Constitution. The Amendment Process describes how that happens. Step 1: Congress proposes an amendment by a 2/3 vote in each house or 2/3 of the legislatures ask Congress to call a constitutional convention. Step 2: 3/4 or 34 states say ok (called ratifying). The Constitution has been ratified 27 times.
