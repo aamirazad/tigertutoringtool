@@ -155,6 +155,50 @@ Look at line 558-561. These lines are comparing a person to what they would want
 
 Mercutio talks about dreams in a positive or negative tone? Look towards the beginning of the scene where Romeo and Mercutio go back and forth. Hint: look at lines 585-592. 
 
+24. *Mercutio's name comes form that of the Roman god Mercury, who was know for eloquence (persuasive and expressive speech), cleverness, and thievery. To what extent does he resemble the god after whom he was named?*
+
+Look at how Mercutio has reacted through out the whole story. Does who react negatively, or positevly, does he try to trick people, or talks persuasively? Want to learn more about the Roman God Mercury? Check out this website: [Murcery and Mythology](https://www.eso.org/public/outreach/eduoff/vt-2004/mt-2003/mt-mercury-mythology.html#:~:text=Mercury%20the%20swift%20messenger%20of,commerce%2C%20fertility%2C%20and%20thievery.) 
+
+25. *What does Romeo fear might happen in the near future* 
+
+Look at the end of the scene when Romeo talks. How does he feel, what is the mood? 
+
+## Act 1, Scene 5. 
+
+26. *What do lines 15 through 32 reveal about Capulet?* 
+
+Look at the lines provided. Put yourself at the party. If someone was making Jokes, being kind to everyone, and making everyone feel welcome. What would you think of this person? 
+
+27. *What do the stage direction in line 40 and the dialoge that follows reveal about Romeo?* 
+
+The text does not correctly name the Line, the stage direction is on line 48. When Romeo enters the party, what does he immediatley do? Re-word the question to say what was Romeo's feelings when he entered the building. 
+
+28. *What does the dialogue between Capulet and Tybalt show about their relationship? How is Capulet a dramatic foil for Tybalt.*
+
+Look at Capulet and Tybalt's fight. Who is in charge. What are their two peronalities? Use question 26 to help you with Capulet, and observe Tybalt's reaction to different thing. 
+
+28 a. *Dramatic Foil* 
+
+Just define Dramatic Foil. 
+
+29. *How does Capulet respond when Tybalt says he will not tolerate Romeo's presence at the party?*
+
+Look at their fight. What is Capulet worried about? Who is he worried about angering? 
+
+30. *What do the dialogue and stage directions in this passage reveal about Romeo's and Juliet's feelings?* 
+
+Think of Romeo's reaction when he first entered the party. Also, how do you think Juliet is feeling because she kissed a man the first night she met him? 
+
+31. *WHat is Romeo's reaction when he first glimpses Juliet at the party?* 
+
+What did he do when he first entered the party? what did he ask the serving man? 
+
+32. *How does Romeo get Juliet to kiss him?* 
+
+What does Roemo say when he kisses Juliet? What does he compare their lips to? 
+
+
+
 
 
 
