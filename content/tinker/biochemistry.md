@@ -9,8 +9,7 @@ teacher:
  
 ## Vocab
 Biochemistry
-: Biochemistry is the study of all compounds containing carbon
-### The three Subatomic particles
+: Biochemistry is the branch of science concerned with the chemical and physicochemical processes and substances that occur within living organisms.### The three Subatomic particles.
 Proton
 : Found in the nucleus of an atom, the clump in the middle. It has a positive charge. Remember, the **P**roton has a **P**ositive charge. The number of protons a atom is represented by its atomic number. If it has 3 protons, then it has an atomic number of 3. The protons also 
  
