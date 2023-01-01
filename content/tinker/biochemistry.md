@@ -9,10 +9,9 @@ teacher:
  
 ## Vocab
 Biochemistry
-: Biochemistry is the study of all compounds containing carbon
-### The three Subatomic particles
+: Biochemistry is the branch of science concerned with the chemical and physicochemical processes and substances that occur within living organisms.### The three Subatomic particles.
 Proton
-: Found in the nucleus of an atom, the clump in the middle. It has a positive charge. Remember, the **P**roton has a **P**ositive charge. The number of protons a atom is represented by its atomic number. If it has 3 protons, then it has an atomic number of 3. The protons also 
+: Found in the nucleus of an atom, the clump in the middle. It has a positive charge. Remember, the **P**roton has a **P**ositive charge. The number of protons an atom is represented by its atomic number. If it has 3 protons, then it has an atomic number of 3. The protons also is used to calculate the atomic mass of an element. This represents the weighted average of all the elements isotopes. It is calculated by taking the number of protons plus the number of neutrons.
  
 Neutron
 : Mixed with the protons in the nucleus. It helps hold the atom together. Although the name makes it sound like it has a negative charge, it has a neutral charge. Remember the **N**eutron has a **N**eutral charge.
@@ -66,7 +65,7 @@ Saturated/Unsaturated fatty acid
 : Saturated fatty acids are acids full of Hydrogen atoms, and unsaturated is not full of hydrogens
 ![fatty acid](https://tigertutoringtool.aamira.me/tinker/images/acid.png)
  
-### Reactions
+### Enzymes
 Substrate? 
 : A substrate is the compound that the enzyme reacts with at the active site
  
@@ -85,11 +84,13 @@ Reactant
 Product
 : A product is a element or compound produced by a chemical rxn
  
-Denaturing of a enzyme
-: A enzyme is denatured when its shape is changed making them non-functional
+Denaturing of an enzyme
+: An enzyme is denatured when its shape is changed making them non-functional
  
 Hydrogen bonds
-: Hydrogen atom bonds occur when a hydrogen atom covalently (share an electron) bonds to a oxygen or nitrogen atom
+: Hydrogen atom bonds occur when a hydrogen atom covalently (share an electron) bonds to an oxygen or nitrogen atom
  
- pH
+pH
 : The pH of a solution depends on the concentration of H+ ions in that solution. The solution is acidic when it has a lot of H+ ions and is basic when it has more OH- ions 
+
+
