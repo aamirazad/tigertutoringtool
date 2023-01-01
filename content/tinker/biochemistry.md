@@ -12,7 +12,7 @@ Biochemistry
 : Biochemistry is the study of all compounds containing carbon
 ### The three Subatomic particles
 Proton
-: Found in the nucleus of an atom, the clump in the middle. It has a positive charge. Remember, the **P**roton has a **P**ositive charge. The number of protons an atom is represented by its atomic number. If it has 3 protons, then it has an atomic number of 3. The protons also 
+: Found in the nucleus of an atom, the clump in the middle. It has a positive charge. Remember, the **P**roton has a **P**ositive charge. The number of protons an atom is represented by its atomic number. If it has 3 protons, then it has an atomic number of 3. The protons also is used to calculate the atomic mass of an element. This represents the weighted average of all the elements isotopes. It is calculated by taking the number of protons plus the number of neutrons.
  
 Neutron
 : Mixed with the protons in the nucleus. It helps hold the atom together. Although the name makes it sound like it has a negative charge, it has a neutral charge. Remember the **N**eutron has a **N**eutral charge.
