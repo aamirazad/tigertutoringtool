@@ -19,7 +19,7 @@ Neutron
 : Mixed with the protons in the nucleus. It helps hold the atom together. Although the name makes it sound like it has a negative charge, it has a neutral charge. Remember the **N**eutron has a **N**eutral charge.
  
 Isotopes
-: Sometimes an atom will have the incorrect number of neutrons. Remember how neutron's main purpose was to hold the atom together. It doesn't affect the main function of the atom like the proton? Well it makes sense that if an atom loses a neutron or has too many, the atom will just become unstable or radioactive it won't change its function.
+: Sometimes an atom will have the incorrect number of neutrons. Remember how neutron's main purpose was to hold the atom together, and it doesn't affect the main function of the atom like the proton? Well it makes sense that if an atom loses a neutron or has too many, the atom will just become unstable or radioactive it won't change its function.
  
 Electron
 : These are the things that orbit the nucleus. They have a negative charge. There are three rings. The closest one to the nucleus can hold a maximum of 2 electrons. The next one can hold up to 8 electrons and so can the last ring.
