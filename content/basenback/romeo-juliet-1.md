@@ -197,7 +197,7 @@ What did he do when he first entered the party? what did he ask the serving man?
 
 What does Roemo say when he kisses Juliet? What does he compare their lips to? 
 
-
+## Act 2, Scene 1.
 
 
 
