@@ -52,7 +52,7 @@ If you like civics, ask yourself what is the purpose of the preamble of the cons
 ## Act 1, Scene 1
 
 1. *The first scene of every Shakespeare tragedy was planned to get the attention of the groundlings, people of the lower classes who stood in the pit to watch the plays. Why might Scene 1 have appealed to the groundlings?*
-![groundlings](https://tigertutoringtool.aamira.me/basenback/images/groundlings.jpg)
+![groundlings](https://tigertutoringtool.aamira.me/images/groundlings.jpg)
 
 This is a picture of groundlings (people standing below the stage). The groundlings had a front-row view. Ask yourself, what would you like to see close up, especially from the first scene? This can be opinionated but put yourself back in Shakespeare's day, and assume what the average person would like to see. 
 
@@ -71,7 +71,7 @@ The best example is when the two characters enter into a fight with the servants
 
 5. *Summarize the warning that the Prince issues to the Monatgues and Capulets in this speech. Why is he so upset?* 
 
-Lines 97 -119 reveals the Princes intentions. Observe the Princes tone, and expeirence with the two families. Still need help? Look for key words such as death and peace.
+Lines 97 -119 reveals the Princes intentions. Observe the Princes tone, and experience with the two families. Still need help? Look for key words such as death and peace.
 
 6. *Who stops the brawl between the Monatgues and the Capulets?* 
 
@@ -79,7 +79,7 @@ Look for stage cues, revealing the answer.
 
 7. *What does this conversation reveal about Romeo's state of mind?*
 
-Romeo uses a lot of euphemisms (Oxford Languages: a mild or indirect word or expression substituted for one considered to be too harsh or blunt when referring to something unpleasant or embarrassing). These euphemisms can reveal some of his state of mind. Still need help? look for key words such as I, or she to show his state of mind. 
+Romeo uses a lot of euphemisms (Oxford Languages: a mild or indirect word or expression substituted for one considered to be too harsh or blunt when referring to something unpleasant or embarrassing). These euphemisms can reveal some of his state of mind. Still need help? Look for keywords such as I, or she to show his state of mind. 
 
 *What is an Oxymoron?* 
 
@@ -87,7 +87,7 @@ Check Notes.
 
 8. *What reason for his sadness does Benvolio give to Romeo about the woman he loves?*
 
-Romeo mentions this many times. hint: In Elizabethan England being pure was very important. 
+Romeo mentions this many times. Hint: In Elizabethan England being pure was very important. 
 
 9. *What advice does Benvolio give to Romeo about the woman he loves?* 
 
@@ -115,31 +115,31 @@ Look to the beginning of the scene where the Nurse and Lady Capulet are talking 
 
 14. *What do the Nurse's words reveal about her devotion to Juliet?*
 
-Look in lines (387 -409). The Nurses speech reveals that she has a long history with Juliet. The Nurse probabaly took care of her since birth.
+Look in lines (387 -409). The Nurse's speech reveals that she has a long history with Juliet. The Nurse probably took care of her since birth.
 
-15. *What does the converstaion reveal about the Nurse's personality.* 
+15. *What does the conversation reveal about the Nurse's personality.* 
 
-The nurse makes many innapropriate jokes and references, and seems to find them amusing. She also seems to mention what specific aspect of Paris? Physical, personality, or status? 
+The nurse makes many inappropriate jokes and references, and seems to find them amusing. She also seems to mention what specific aspect of Paris? Physical, personality, or status? 
 
-16. *What does the dialouge reveal about Juliet's attitude toward marriage and Paris?* 
+16. *What does the dialogue reveal about Juliet's attitude toward marriage and Paris?* 
 
-Juliet tries to keep respectful when reveling her atttitude. Hint: look for key words such as "marry" and "Dream." 
+Juliet tries to keep respectful when reveling her attitude. Hint: look for keywords such as "marry" and "Dream." 
 
 17. *Why has Lady Capulet come to talk to Juliet?* 
 
-This is the main topic of their dialouge. 
+This is the main topic of their dialogue. 
 
 18. *What does lady Capulet compare Paris to?* 
 
-Lady Capulet uses words like "pen," "volume," and "written," what are these words usually acossiated with?
+Lady Capulet uses words like "pen," "volume," and "written," what are these words usually associated with?
 
 ## Act 1, Scene 4. 
 
 19. *What does Benvolio's plan suggest about his personality?* 
 
-Towards the end Benvolio says, "But let them measure us by what they will. We'll measure them a measure and be gone" (Shakespeare 1.4. 491-492). What can we assume from this excerpt? Hint: Re-write the question as: let them talk what they want about us, and we will do the same to them. Also if you want to learn more about citing shakespeare with intext citations, here's a cool website that I (Micahel) used to cite the quote above [How to cite Shakespeare in MLA](https://www.scribbr.com/mla/shakespeare-citation/)
+Towards the end Benvolio says, "But let them measure us by what they will. We'll measure them a measure and be gone" (Shakespeare 1.4. 491-492). What can we assume from this excerpt? Hint: Re-write the question as: let them talk what they want about us, and we will do the same to them. Also if you want to learn more about citing Shakespeare with intext citations, here's a cool website that I (Micahel) used to cite the quote above [How to cite Shakespeare in MLA](https://www.scribbr.com/mla/shakespeare-citation/)
 
-20. *What contrast between Mercutio and Romeo does the dialouge reveal*
+20. *What contrast between Mercutio and Romeo does the dialogue reveal*
 
 Romeo often talks about love and being sad. Does Mercutio agree with this or not? Hint: use question 23 to help you, or use this question to help you with number 23! 
 
@@ -155,9 +155,9 @@ Look at line 558-561. These lines are comparing a person to what they would want
 
 Mercutio talks about dreams in a positive or negative tone? Look towards the beginning of the scene where Romeo and Mercutio go back and forth. Hint: look at lines 585-592. 
 
-24. *Mercutio's name comes form that of the Roman god Mercury, who was know for eloquence (persuasive and expressive speech), cleverness, and thievery. To what extent does he resemble the god after whom he was named?*
+24. *Mercutio's name comes from that of the Roman god Mercury, who was known for eloquence (persuasive and expressive speech), cleverness, and thievery. To what extent does he resemble the god after whom he was named?*
 
-Look at how Mercutio has reacted through out the whole story. Does who react negatively, or positevly, does he try to trick people, or talks persuasively? Want to learn more about the Roman God Mercury? Check out this website: [Murcery and Mythology](https://www.eso.org/public/outreach/eduoff/vt-2004/mt-2003/mt-mercury-mythology.html#:~:text=Mercury%20the%20swift%20messenger%20of,commerce%2C%20fertility%2C%20and%20thievery.) 
+Look at how Mercutio has reacted throughout the whole story. Does who react negatively, or positively, does he try to trick people, or talks persuasively? Want to learn more about the Roman God Mercury? Check out this website: [Murcery and Mythology](https://www.eso.org/public/outreach/eduoff/vt-2004/mt-2003/mt-mercury-mythology.html#:~:text=Mercury%20the%20swift%20messenger%20of,commerce%2C%20fertility%2C%20and%20thievery.) 
 
 25. *What does Romeo fear might happen in the near future* 
 
@@ -169,13 +169,13 @@ Look at the end of the scene when Romeo talks. How does he feel, what is the moo
 
 Look at the lines provided. Put yourself at the party. If someone was making Jokes, being kind to everyone, and making everyone feel welcome. What would you think of this person? 
 
-27. *What do the stage direction in line 40 and the dialoge that follows reveal about Romeo?* 
+27. *What do the stage direction in line 40 and the dialogue that follows reveal about Romeo?* 
 
-The text does not correctly name the Line, the stage direction is on line 48. When Romeo enters the party, what does he immediatley do? Re-word the question to say what was Romeo's feelings when he entered the building. 
+The text does not correctly name the Line, the stage direction is on line 48. When Romeo enters the party, what does he immediately do? Re-word the question to say what was Romeo's feelings when he entered the building. 
 
 28. *What does the dialogue between Capulet and Tybalt show about their relationship? How is Capulet a dramatic foil for Tybalt.*
 
-Look at Capulet and Tybalt's fight. Who is in charge. What are their two peronalities? Use question 26 to help you with Capulet, and observe Tybalt's reaction to different thing. 
+Look at Capulet and Tybalt's fight. Who is in charge. What are their two personalities? Use question 26 to help you with Capulet, and observe Tybalt's reaction to different thing. 
 
 28 a. *Dramatic Foil* 
 
@@ -189,23 +189,10 @@ Look at their fight. What is Capulet worried about? Who is he worried about ange
 
 Think of Romeo's reaction when he first entered the party. Also, how do you think Juliet is feeling because she kissed a man the first night she met him? 
 
-31. *WHat is Romeo's reaction when he first glimpses Juliet at the party?* 
+31. *What is Romeo's reaction when he first glimpses Juliet at the party?* 
 
-What did he do when he first entered the party? what did he ask the serving man? 
+What did he do when he first entered the party? What did he ask the serving man? 
 
 32. *How does Romeo get Juliet to kiss him?* 
 
-What does Roemo say when he kisses Juliet? What does he compare their lips to? 
-
-## Act 2, Scene 1.
-
-
-
-
-
-
-
-
-
-
-
+What does Romeo say when he kisses Juliet? What does he compare their lips to? 
