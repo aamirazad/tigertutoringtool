@@ -47,7 +47,7 @@ params:
   profileMode:
     enabled: true
     title: "<Tiger Tutoring Tool>"
-    imageUrl: "tiger.png"
+    imageUrl: "tiger.webp"
     imageWidth: 375
     imageHeight: 375
     buttons:
