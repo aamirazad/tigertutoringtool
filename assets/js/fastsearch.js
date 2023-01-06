@@ -48,7 +48,7 @@ window.onload = function () {
             }
         }
     };
-    xhr.open("GET", "https://tigertutoringtool.aamira.me/index.json");
+    xhr.open('GET', "../index.json");
     xhr.send();
 }
 

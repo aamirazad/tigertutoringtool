@@ -5,7 +5,7 @@ theme: PaperMod
 googleAnalytics: G-0WWJG03GJY
 enableInlineShortcodes: true
 enableRobotsTXT: true
-buildDrafts: false
+buildDrafts: true
 buildFuture: false
 buildExpired: false
 enableEmoji: true
@@ -25,11 +25,11 @@ params:
   author: ["Aamir", "Michael"]
   ShowToc: true
   defaultTheme: auto
+  ShowBreadCrumbs: false
   ShowReadingTime: true
   ShowCodeCopyButtons: false
   images: '/static/tiger.png'
   keywords: [school, help, homework]
-  ShowBreadCrumbs: true
   label:
     label.icon: 'static/tiger.png'
     label.iconHeight: 35
