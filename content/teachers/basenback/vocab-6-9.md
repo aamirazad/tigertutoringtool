@@ -5,8 +5,8 @@ draft: false
 author: ["Aamir"]
 teacher:
  - Basenback
-expiryDate: 2023-1-4
 ---
+
 ## Quizlet
 
 {{< basenback/6-9 >}}
