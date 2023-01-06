@@ -25,6 +25,7 @@ params:
   author: ["Aamir", "Michael"]
   ShowToc: true
   defaultTheme: auto
+  ShowBreadCrumbs: false
   ShowReadingTime: true
   ShowCodeCopyButtons: false
   images: '/static/tiger.png'
