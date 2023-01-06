@@ -9,7 +9,6 @@ buildDrafts: true
 buildFuture: false
 buildExpired: false
 enableEmoji: true
-enableEmoji: true
 taxonomies:
   teacher: teacher
   class: class
