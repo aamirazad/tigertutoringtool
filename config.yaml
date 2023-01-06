@@ -2,7 +2,7 @@ baseURL: https://tigertutoringtool.aamira.me/
 languageCode: en-us
 title: Tiger Tutoring Tool
 theme: PaperMod
-googleAnalytics: G-0WWJG03GJY
+  # googleAnalytics: G-0WWJG03GJY
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: true
