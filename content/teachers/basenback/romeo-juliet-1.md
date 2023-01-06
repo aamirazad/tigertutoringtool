@@ -133,7 +133,7 @@ This is the main topic of their dialogue.
 
 Lady Capulet uses words like "pen," "volume," and "written," what are these words usually associated with?
 
-## Act 1, Scene 4. 
+## Act 1, Scene 4 
 
 19. *What does Benvolio's plan suggest about his personality?* 
 
@@ -163,7 +163,7 @@ Look at how Mercutio has reacted throughout the whole story. Does who react nega
 
 Look at the end of the scene when Romeo talks. How does he feel, what is the mood? 
 
-## Act 1, Scene 5. 
+## Act 1, Scene 5 
 
 26. *What do lines 15 through 32 reveal about Capulet?* 
 
