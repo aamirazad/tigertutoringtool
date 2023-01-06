@@ -48,7 +48,7 @@ params:
     enabled: true
     title: "<Tiger Tutoring Tool>"
     imageUrl: "tiger.webp"
-    imageWidth: 375
+    imageWidth: 332
     imageHeight: 375
     buttons:
         - name: Browse
