@@ -17,19 +17,19 @@ Look at lines 767, 768, and 774. These give the main picture but examine the res
 
 *What does Romeo mean by “He jests at scars that never felt a wound”?*
 
-Sheesh Romeo that's harsh. Romeo is overhearing this conversation about him. It is alos an example of dramatic irony! Analyse the text, jest means to make fun of. Also what wounds are he refering too? What problem is/was Romeo talking about? 
+Sheesh Romeo that's harsh. Romeo is overhearing this conversation about him. It is alos an example of dramatic irony! Analyze the text, jest means to make fun of. Also, what wounds are he referring too? What problem is/was Romeo talking about? 
 
 *Why is it ironic that Mercutio teases Romeo about Rosaline?*
 
-What do we know about irony? Irony is often when something happens that we do not expect to happen, i.e. if I am a proffesional car driver it would be ironic for me to crash. So, when Mercutio is making fun of Romeo for being love sick with Rosaline (BTW: Rosaline is pronounced: Roz-uh-line), what can we infer when we know what Romeo beleives. Want to find out more about Rosaline? There is a movie about ROsaline (Watch on hulu with parent permission, or check out this website: [Rosaline's appearence in Romeo & Juliet](https://nosweatshakespeare.com/characters/rosaline-romeo-juliet/)
+What do we know about irony? Irony is often when something happens that we do not expect to happen, i.e. if I am a professional car driver it would be ironic for me to crash. So, when Mercutio is making fun of Romeo for being love sick with Rosaline (BTW: Rosaline is pronounced: Roz-uh-line), what can we infer when we know what Romeo believes. Want to find out more about Rosaline? There is a movie about Rosaline (Watch on hulu with parent permission, or check out this website: [Rosaline's appearance in Romeo & Juliet](https://nosweatshakespeare.com/characters/rosaline-romeo-juliet/)
 
 ## Scene 2
 
-*Explain the metaphor that Romeo uses to describe Juliet when he first sees her. how does this figure of speech reveal his feeling about her.*
+*Explain the metaphor that Romeo uses to describe Juliet when he first sees her. How does this figure of speech reveal his feeling about her.*
 
-Romeo compares Juliet to this stellar star. What does that star do to the world. People often compare the night to sadness, so what would the star do. 
+Romeo compares Juliet to this stellar star. What does that star do to the world. People often compare the night to sadness, so what would the star do? 
 
-*According to Romeo, who is Jealous of Juliets beauty?*
+*According to Romeo, who is Jealous of Juliet's beauty?*
 
 This is another stellar sphere. 
 
@@ -39,9 +39,9 @@ This is a tricky question. The next question will make this question more clear.
 
 *Explain Juliet's speech about the importance of names. What does "wherefore art thou" actually mean?*
 
-The importance of names is a tricky subject. What do you think Juliet means? What is the main theme of this story? "Deny thy father and refuse thy name.."(Shakespeare 2.2. 860). This is my favorite line (-Michael). You may think that wherefore art thou may be asking, wherefore be that Romeo. But no, shakespeare makes it weird. Think of the first part of this question, and apply it to this question. 
+The importance of names is a tricky subject. What do you think Juliet means? What is the main theme of this story? "Deny thy father and refuse thy name.."(Shakespeare 2.2. 860). This is my favorite line (-Michael). You may think that wherefore art thou may be asking, wherefore be that Romeo. But no, Shakespeare makes it weird. Think of the first part of this question, and apply it to this question. 
 
-*How does Romeo claim he was able to get over the orchard walls? Why is Romeo unafraid of Juliets Kinsmen? 
+*How does Romeo claim he was able to get over the orchard walls? Why is Romeo unafraid of Juliet's Kinsmen?*  
 
 Romeo claims this Roman Romeo helped Romeo get over the walls (say that five times fast!). Romeo is unafraid because of what? What do you think is on Romeo's mind, instead of fear?
 
@@ -51,7 +51,7 @@ Romeo is big on this topic.
 
 *How does Juliet indicate that she may doubt Romeo's love for her? Find two quotes that she is testing him.* 
 
-Juliet goes straight to the point by asking what? Also she compares their love to this natural occurence. 
+Juliet goes straight to the point by asking what? Also, she compares their love to this natural occurrence. 
 
 *Why does Juliet tell Romeo not to "swear by the moon?"*
 
@@ -65,9 +65,9 @@ Who is most confident about this relationship? This is a cool question! What do 
 
 This may seem complicated but you got this! Apply this to real life. What if you and your friend were having dinner, and you really like eating with them. But, you guys are going to a waterpark tomorrow! How would you feel if you had to leave dinner? Look in your notes for the second half! Hint: Sweet + // sorrow -. 
 
-*Explain the role that darkness plays in helping Romeo and Juliet learn of thier love for each other* 
+*Explain the role that darkness plays in helping Romeo and Juliet learn of their love for each other* 
 
-The role of darkness is a key factor. If you are playing hide and seek what factor would darkness play? Also Romeo wants to stay as long as he can, how does the darkness help? 
+The role of darkness is a key factor. If you are playing hide and seek what factor would darkness play? Also, Romeo wants to stay as long as he can, how does the darkness help? 
 
 ## Scene 3
 
@@ -89,9 +89,9 @@ Look back at what Romeo asked Juliet for?
 
 *Why does Friar Lawerence question Romeo's request*
 
-Remeber, he has been out of the loop. So he thinks that Romeo's past lover and him are still together. Also Romeo has been very upset about this her too. 
+Remember, he has been out of the loop. So he thinks that Romeo's past lover and him are still together. Also, Romeo has been very upset about this her too. 
 
-*What is Friar Lawerence's reason for agreeing ot marry Romeo and Juliet?* 
+*What is Friar Lawerence's reason for agreeing to marry Romeo and Juliet?* 
 
 Friar Lawrence is a man of peace. What would he disagree with between the two families. How might this union help the family's and their relationship. 
 
@@ -99,7 +99,7 @@ Friar Lawrence is a man of peace. What would he disagree with between the two fa
 
 *What news does Benvolio tell Mercutio at the beginning of scene 4?* 
 
-Look only at Benvolio's speech throughtout the first half of the story. What did Benvolio say that Mercutio not know about? 
+Look only at Benvolio's speech throughout the first half of the story. What did Benvolio say that Mercutio not know about? 
 
 *Why does Mercutio Romeo is already dead?* 
 
