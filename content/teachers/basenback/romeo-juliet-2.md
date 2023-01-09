@@ -18,7 +18,7 @@ Look at lines 767, 768, and 774. These give the main picture but examine the res
 
 *What does Romeo mean by “He jests at scars that never felt a wound”?*
 
-Sheesh Romeo that's harsh. Romeo is overhearing this conversation about him. It is alos an example of dramatic irony! Analyze the text, jest means to make fun of. Also, what wounds are he referring too? What problem is/was Romeo talking about? 
+Sheesh Romeo that's harsh. Romeo is overhearing this conversation about him. It is also an example of dramatic irony! Analyze the text, jest means to make fun of. Also, what wounds are he referring too? What problem is/was Romeo talking about? 
 
 *Why is it ironic that Mercutio teases Romeo about Rosaline?*
 
@@ -46,7 +46,7 @@ The importance of names is a tricky subject. What do you think Juliet means? Wha
 
 Romeo claims this Roman Romeo helped Romeo get over the walls (say that five times fast!). Romeo is unafraid because of what? What do you think is on Romeo's mind, instead of fear?
 
-*Who, according to what Romeo tell Juliet, gave him directions to her balcony?* 
+*Who, according to what Romeo tells Juliet, who gave him directions to her balcony?* 
 
 Romeo is big on this topic. 
 
@@ -56,7 +56,7 @@ Juliet goes straight to the point by asking what? Also, she compares their love 
 
 *Why does Juliet tell Romeo not to "swear by the moon?"*
 
-What does the moon do every night? What to learn more about our moon check out this website: [The Earth's Moon](https://solarsystem.nasa.gov/moons/earths-moon/overview/).
+What does the moon do every night? To learn more about our moon, check out this website: [The Earth's Moon](https://solarsystem.nasa.gov/moons/earths-moon/overview/).
 
 *Who mentions the idea of marriage first? What is your reaction to this proposal?*
 
@@ -78,15 +78,15 @@ Friar Lawrence talks about a basket and different plants. What do you think he i
 
 *Find and define examples of personification in the first six lines of Friar Lawrence's speech.* 
 
-Use your notes to define personification. Also look in the first six lines and find words that relate to nature, and then something a human would do. 
+Use your notes to define personification. Also, look in the first six lines and find words that relate to nature, and then something a human would do. 
 
 *Who does Friar Lawerence think Romeo has been with all night?* 
 
-Friar Lawerence has been left out of the group chat with this one. Since he doesn't know the details what do you think he beleives Romeo loves? 
+Friar Lawerence has been left out of the group chat with this one. Since he doesn't know the details what do you think he believes Romeo loves? 
 
 *What does Romeo ask Friar Lawrence to do?* 
 
-Look back at what Romeo asked Juliet for? 
+Look back at what Romeo asked Juliet for. 
 
 *Why does Friar Lawerence question Romeo's request*
 
@@ -94,7 +94,7 @@ Remember, he has been out of the loop. So he thinks that Romeo's past lover and 
 
 *What is Friar Lawerence's reason for agreeing to marry Romeo and Juliet?* 
 
-Friar Lawrence is a man of peace. What would he disagree with between the two families. How might this union help the family's and their relationship. 
+Friar Lawrence is a man of peace. What would he disagree with between the two families? How might this union help the familys and their relationship? 
 
 ## Scene 4
 
@@ -102,7 +102,7 @@ Friar Lawrence is a man of peace. What would he disagree with between the two fa
 
 Look only at Benvolio's speech throughout the first half of the story. What did Benvolio say that Mercutio not know about? 
 
-*Why does Mercutio Romeo is already dead?* 
+*Why does Mercutio say Romeo is already dead?* 
 
 Think of what Romeo has been suffering from. 
 
@@ -112,7 +112,7 @@ Compare the two characters. Ask, who started the fight, who makes suggestive com
 
 *The Montague Boys think Romeo was still with Rosaline last night. Why do you think Romeo doesn't tell them the truth* 
 
-Two lovers from different families, whos families fight all the time. Why wouldn't you want them to know the truth? 
+Two lovers from different families, whose families fight all the time. Why wouldn't you want them to know the truth? 
 
 *Who teases the Nurse and Why?*
 
@@ -122,7 +122,19 @@ Now this is just plain mean. Look at who starts the teasing, and look into who i
 
 Romeo comes up with this big plan. The first step of his plan is for Juliet to get to the church. What is her excuse for going to church? Also, after the fact, what weird thing does Romeo request? Hint: what does "A tackled stair" mean? 
 
+## Scene 5
 
+*How long has Juliet been waiting for the Nurse to come with word from Romeo?*
+
+Look at what Juliet says at the beginning of the scene. She is complaining about how long the nurse is taking to ask Romeo what time the wedding will be.
+
+*The Nurse knows Juliet has been waiting for news, yet she continues to put Juliet off.  Why do you think she does this?  What does this scene reveal about their relationship?*
+
+The Nurse has a very distinct personality of making (sometimes inappropriate) jokes. This is usually with Juliet. Why is this? How does her history with Juliet influence her relationship with Juliet?
+
+*What task does the Nurse mention she must do at the end of scene five*
+
+We already know what Romeo told the Nurse Juliet has to do. This has to do with how Romeo will sneak into her room.
 
 
 
