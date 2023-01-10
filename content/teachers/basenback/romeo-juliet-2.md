@@ -138,13 +138,17 @@ We already know from when Romeo talked to the Nurse. This has to do with how Rom
 
 30. *How is the Nurse a dramatic foil to Juliet?*
 
-This foil is very simaler to Mercutio's characteristics that foil with Romeo. Think about how many jokes the Nurse has been thought the story and how opposite that is to how Juliet talks. Also, notice how Mercutio and the Nurse, while both being a foil for Romeo and Juliet, really do not understand how much Romeo and Juilet care for each other.
+This foil is very similar to Mercutio's characteristics that foil with Romeo. Think about how many jokes the Nurse has been thought the story and how opposite that is to how Juliet talks. Also, notice how Mercutio and the Nurse, while both being a foil for Romeo and Juliet, really do not understand how much Romeo and Juliet care for each other.
 
 ## Scene 6
 
-31. Look back at the progloge of scene 
+31. *Of what are we reminded by Friar Lawrence’s line “These violent delights have violent ends”?*
 
+Look back at the prologue of scene 1. Also, just from some general knowledge about Romeo and Juliet, think about what happens to Romeo and Juliet. How might their "violent delight" have a violent end?
 
+32. *What event may or may not happen in front of the audience?*
+
+This is the event the whole entire scene 2 leads up to.   
 
 
 
