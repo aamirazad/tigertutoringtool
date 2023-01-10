@@ -73,7 +73,7 @@ menu:
       name: Search
       url: /search/
       weight: 30
-    - identifier: contact
-      name: Contact
-      url: /contact/
+    - identifier: about
+      name: About
+      url: /about/
       weight: 40

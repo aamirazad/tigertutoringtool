@@ -1,6 +1,7 @@
 ---
-title: Contact us
-summary: "contact us"
+title: About the authors
 layout: "contact"
 searchHidden: true
 ---
+
+## Hello world
