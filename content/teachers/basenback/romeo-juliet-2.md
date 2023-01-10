@@ -1,7 +1,7 @@
 ---
 title: "Romeo and Juliet Act 2"
 date: 2023-01-04T18:22:59-05:00
-draft: true
+draft: false
 weight: 10
 author: ["Micheal & Aamir"]
 teacher:
@@ -144,11 +144,11 @@ This foil is very similar to Mercutio's characteristics that foil with Romeo. Th
 
 31. *Of what are we reminded by Friar Lawrence’s line “These violent delights have violent ends”?*
 
-Look back at the prologue of scene 1. Also, just from some general knowledge about Romeo and Juliet, think about what happens to Romeo and Juliet. How might their "violent delight" have a violent end?
+Look back at the prologue of act 1. Also, just from some general knowledge about Romeo and Juliet, think about what happens to Romeo and Juliet at the end of the story. How might their "violent delight" (Their love story) have a violent end?
 
 32. *What event may or may not happen in front of the audience?*
 
-This is the event the whole entire scene 2 leads up to.   
+This is the event the whole entire act 2 leads up to.   
 
 
 
