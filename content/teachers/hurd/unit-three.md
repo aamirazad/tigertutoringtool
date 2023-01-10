@@ -56,15 +56,15 @@ The Constitution implements some important concepts to make our country work.
 
 ### Separation of powers
 
-Separation of powers divides the power of the federal government to different branches. (Executive, Legislative, Judicial) This is to prevent one branch getting to powerful and reduces the chance of dictatorship.
+Separation of powers divides the power of the federal government into different branches. (Executive, Legislative, Judicial) This is to prevent one branch getting to powerful and reduces the chance of dictatorship.
 
 ### Checks and balances
 
-Checks and balances says each branch has some power over the other branch. For example, the Congress which is in the Legislative branch has the power to pass laws but the President who is in the Executive branch can veto laws passed.
+Checks and balances says each branch has some power over the other branch. For example, Congress, which is in the Legislative branch has the power to pass laws but the President who is in the Executive branch can veto laws passed.
 
 ### Federalism
 
-Federalism is a system of government where the government is divided between the federal government and state levels. The powers can be delegated, only given to the federal government, reserved, only given to the states, or concurrent, the powers are shared by federal government and state government. If a conflict arises, federal law is supreme because of the supremacy clause in Article VI.
+Federalism is a system of government where the government is divided between the federal government and state levels. The powers can be delegated, only given to the federal government, reserved, only given to the states, or concurrent, the powers are shared by the federal government and state government. If a conflict arises, federal law is supreme because of the supremacy clause in Article VI.
 
 ### The Amendment Process
 
