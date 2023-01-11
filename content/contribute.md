@@ -1,7 +1,9 @@
+---
 title: "Contribute" # in any language you want
 summary: "Contribute"
-layout: "Single"
+layout: "single"
 searchHidden: true
+---
 
 ## Want to Contribute? 
 
