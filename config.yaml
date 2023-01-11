@@ -77,3 +77,6 @@ menu:
       name: About
       url: /about/
       weight: 40
+      identifier: contribute
+      name: Contribute
+      url: 
