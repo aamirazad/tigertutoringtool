@@ -148,7 +148,7 @@ Look back at the prologue of act 1. Also, just from some general knowledge about
 
 32. *What event may or may not happen in front of the audience?*
 
-This is the event the whole entire act 2 leads up to.   
+The event the question is reffering to is the event act 2 leads up to.
 
 
 
