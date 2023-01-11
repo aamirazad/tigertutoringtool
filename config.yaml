@@ -77,7 +77,7 @@ menu:
       name: Contribute
       url: /contribute/
       weight: 50
-      identifier: usage agreement
+    - identifier: usage agreement
       name: Usage Agreement
       url: /usageagreement/
-      weight: 60 
+      weight: 60
