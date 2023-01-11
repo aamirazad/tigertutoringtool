@@ -73,11 +73,7 @@ menu:
       name: Search
       url: /search/
       weight: 30
-    - identifier: about
-      name: About
-      url: /about/
-      weight: 40
-      identifier: contribute
+    - identifier: contribute
       name: Contribute
       url: /contribute/
       weight: 50
