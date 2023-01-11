@@ -79,4 +79,5 @@ menu:
       weight: 40
       identifier: contribute
       name: Contribute
-      url: 
+      url: /contribute/
+      weight: 50
