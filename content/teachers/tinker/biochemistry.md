@@ -1,12 +1,13 @@
 ---
-title: "Honors Biology Biochem Tutoring"
-date: 2022-12-08T21:36:54-05:00
-draft: false
-author: ["Aamir", "Michael"]
+title: Honors Biology Biochem Tutoring Test
+date: 2022-12-08T21:36:54.000-05:00
+author:
+- Aamir
+- Michael
 teacher:
 - Tinker
+
 ---
- 
 ## Vocab
 Biochemistry
 : Biochemistry is the branch of science concerned with the chemical and physicochemical processes and substances that occur within living organisms.
@@ -93,6 +94,4 @@ Hydrogen bonds
 : Hydrogen atom bonds occur when a hydrogen atom covalently (share an electron) bonds to an oxygen or nitrogen atom
  
 pH
-: The pH of a solution depends on the concentration of H+ ions in that solution. The solution is acidic when it has a lot of H+ ions and is basic when it has more OH- ions 
-
-
+: The pH of a solution depends on the concentration of H+ ions in that solution. The solution is acidic when it has a lot of H+ ions and is basic when it has more OH- ions
