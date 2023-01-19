@@ -1,6 +1,6 @@
 ---
 title: "Romeo and Juliet Act 3"
-date: 2023-01-18T11:17:53Z
+date: 2023-01-18T111753Z
 draft: true
 weight: 9
 author: ["Aamir", "Micheal"]
@@ -17,3 +17,7 @@ Think about what people do when they have quick tempers. Since its a hot day eve
 2. *What is Romeo’s response to Tybalt’s challenge?*
 
 Romeo's responce, along with just trying to tell Tybalt no, goes deeper as to tell Tybalt that Romeo and Tybalt are like family. We know this is true since Romeo got married to Juliet but nobody else knows this.
+
+3. *Since Mercutio doesn’t know of Romeo’s marriage, what is his opinion of Romeo’s response?*
+
+Look at what Mercuito says. He thinks Romeo is being chicken for not fighting Tybalt. He sees no reason to run away from this fight.
