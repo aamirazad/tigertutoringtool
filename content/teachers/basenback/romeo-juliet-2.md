@@ -12,7 +12,7 @@ teacher:
 
 1. *What more do we learn about the story from the Prologue in Act 2?*
 
-Look at lines 767, 768, and 774. These give the main picture but examine the results better. If you're still stuck ask for help from a teacher, or fix your answer after you have read through the story. 
+Look at lines 767, 768, and 774. These give the main picture but examine the results better. If you're still stuck ask for help from a teacher, or fix your answer after you have read through the story.
 
 ## Scene 1
 
