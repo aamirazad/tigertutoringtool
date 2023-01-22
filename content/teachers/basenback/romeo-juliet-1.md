@@ -56,8 +56,7 @@ If you like civics, ask yourself what is the purpose of the preamble of the cons
 1. *The first scene of every Shakespeare tragedy was planned to get the attention of the groundlings, people of the lower classes who stood in the pit to watch the plays. Why might Scene 1 have appealed to the groundlings?*
 ![groundlings](https://tigertutoringtool.aamira.me/images/groundlings.webp)
 
-This is a picture of groundlings (people standing below the stage). The groundlings had a front-row view. Ask yourself, what would you like to see close up, especially from the first scene? This can be opinionated but put yourself back in Shakespeare's day, and assume what the average person would like to see. 
-
+This is a picture of groundlings (people standing below the stage). The groundlings had a front-row view. Ask yourself, what would you like to see close up, especially from the first scene? This can be opinionated but put yourself back in Shakespeare's day, and assume what the average person would like to see.
 
 2. *Which words in the stage directions in line 44 clarify that Sampson is not speaking to Abram?* 
 
@@ -119,7 +118,7 @@ Look to the beginning of the scene where the Nurse and Lady Capulet are talking 
 
 Look in lines (387 -409). The Nurse's speech reveals that she has a long history with Juliet. The Nurse probably took care of her since birth.
 
-15. *What does the conversation reveal about the Nurse's personality.* 
+15. *What does the conversation reveal about the Nurse's personality.*
 
 The nurse makes many inappropriate jokes and references, and seems to find them amusing. She also seems to mention what specific aspect of Paris? Physical, personality, or status? 
 
