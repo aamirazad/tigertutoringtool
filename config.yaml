@@ -28,6 +28,7 @@ params:
   ShowBreadCrumbs: false
   ShowReadingTime: true
   ShowCodeCopyButtons: false
+  ShowPostNavLinks: true
   images: '/static/tiger.png'
   keywords: [school, help, homework]
   label:

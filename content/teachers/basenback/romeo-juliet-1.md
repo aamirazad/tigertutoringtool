@@ -6,6 +6,7 @@ author: ["Michael"]
 teacher:
  - Basenback
 TocOpen: true
+weight: 10
 ---
 
 ## Act 1
@@ -14,7 +15,7 @@ TocOpen: true
 
 1. *What is the place and setting of the play?* 
 
-The Prologue reveals the setting of the play. ( Fun fact the town is located between Milan and Venice Italy.) 
+The Prologue reveals the setting of the play. (Fun fact the town is located between Milan and Venice Italy.) 
 
 2. *What is the relationship between the two households?*
 
@@ -22,7 +23,7 @@ In lines 26-27 of Act 1 Scene 1, Sampras's statement reveals the relationships b
 
 3. *What does Shakespeare mean by “Star-crossed lovers”?*
 
-People who believe in Astrology believe that the stars control human destiny. Another word for Starcrossed is frustrated with the stars. 
+People who believe in Astrology believe that the stars control human destiny. Another word for Star crossed is frustrated with the stars. 
 
 4. *What happens to the lovers?*
 
@@ -44,7 +45,7 @@ The type of poetic form is one that uses a pattern of ABABABCDCD…
 
 In the Prologue, there four are used. When looking at the different poetic languages look for words that mean something different, rhymes, and patterns. 
 
-expireDate: 2023-01-02T14:01:33-05:00
+
 9. *Explain what you learn from the Prologue about the fate of Romeo and Juliet and the feud between the two families.*
 
 Divide the prologue into two parts. Learning about Romeo and Juliet's fate: Lines 6-10. The two families feud: lines 1-5. 
@@ -359,4 +360,28 @@ Romeo's response, along with just trying to tell Tybalt no, goes deeper as to te
 
 3. *Since Mercutio doesn’t know of Romeo’s marriage, what is his opinion of Romeo’s response?*
 
-Look at what Mercutio says. He thinks Romeo is being chicken for not fighting Tybalt. He sees no reason to run away from this fight.
+Look at what Mercutio says. He thinks Romeo is being chicken for not fighting Tybalt. He sees no reason to run away from this fight. Hint: It has to do with Romeo's new relationship with Tybalt now that he married Juliet.
+
+4. *When Mercutio is struck by Tybalt’s sword, what curse does he pronounce four times?*
+
+Just look at what Mercutio says after he is struck.
+
+5. *Romeo avenges Mercutio’s death by killing Tybalt, after Tybalt returns to the scene. Why all of a sudden does Romeo feel the need to fight with Tybalt?*
+
+This is simple. Think about Romeo's relationship with Mercutio. *Hint: Vengeance*
+
+6. *What is Romeo’s state of mind after having killed Tybalt? What does he say to make you think that way? What must he assume about the consequences of his actions on his new marriage?*
+
+This is another simple one. Romeo just killed someone, it's kinda easy to guess what he is feeling. The consequences will defiantly be life changing. Remember the Prince's punishment for fighting on the streets.
+
+7. *Upon the Prince’s arrival at the scene of Mercutio and Tybalt’s deaths, Benvolio attempts to relate the story to the Prince. Is Benvolio’s story accurate?*
+
+Try to fact check his speech. There is one thing he leaves out that has to do with what he told Romeo after he killed Tybalt. If he did reveal this, it would make him look bad.
+
+8. *Lady Capulet is distraught, and believes Benvolio is lying about Tybalt’s death. What does she think happened to Tybalt?*
+
+Look at what she says after Benvolio finishes telling what happened. Her idea of what happened is influenced by the amount of people crowding around Tybalt's body.
+
+9. *After taking the time to listen to both the Montagues and the Capulets about what transpired, what is the Prince’s ultimate sentence for Romeo? Why does the Prince not show any mercy for Romeo?*
+
+Look for the words banishment. The reason that the Prince is not showing mercy has to do with his original warning against fighting on the streets and how close he was with Tybalt.
