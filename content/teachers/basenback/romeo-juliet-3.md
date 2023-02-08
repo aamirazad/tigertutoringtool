@@ -8,7 +8,7 @@ teacher:
  - Basenback
 ---
 
-## Scene 1
+### Scene 1
 
 1. *In the discussion between Benvolio and Mercutio at the beginning of scene one, what do you suppose the talk of quick tempers and the hot day foreshadows?  What specifically might the audience be anticipating next?*
 

@@ -8,13 +8,13 @@ teacher:
  - Basenback
 ---
 
-## Prologue
+### Prologue
 
 1. *What more do we learn about the story from the Prologue in Act 2?*
 
 Look at lines 767, 768, and 774. These give the main picture but examine the results better. If you're still stuck ask for help from a teacher, or fix your answer after you have read through the story.
 
-## Scene 1
+### Scene 1
 
 2. *What does Romeo mean by “He jests at scars that never felt a wound”?*
 
@@ -24,7 +24,7 @@ Sheesh Romeo that's harsh. Romeo is overhearing this conversation about him. It 
 
 What do we know about irony? Irony is often when something happens that we do not expect to happen, i.e. if I am a professional car driver it would be ironic for me to crash. So, when Mercutio is making fun of Romeo for being love sick with Rosaline (BTW: Rosaline is pronounced: Roz-uh-line), what can we infer when we know what Romeo believes. Want to find out more about Rosaline? There is a movie about Rosaline (Watch on hulu with parent permission, or check out this website: [Rosaline's appearance in Romeo & Juliet](https://nosweatshakespeare.com/characters/rosaline-romeo-juliet/)
 
-## Scene 2
+### Scene 2
 
 4. *Explain the metaphor that Romeo uses to describe Juliet when he first sees her. How does this figure of speech reveal his feeling about her.*
 
@@ -70,7 +70,7 @@ This may seem complicated but you got this! Apply this to real life. What if you
 
 The role of darkness is a key factor. If you are playing hide and seek what factor would darkness play? Also, Romeo wants to stay as long as he can, how does the darkness help? 
 
-## Scene 3
+### Scene 3
 
 15. *What is Friar Lawrence doing at the beginning of scene three?* 
 
@@ -96,7 +96,7 @@ Remember, he has been out of the loop. So he thinks that Romeo's past lover and 
 
 Friar Lawrence is a man of peace. What would he disagree with between the two families? How might this union help the familys and their relationship? 
 
-## Scene 4
+### Scene 4
 
 21. *What news does Benvolio tell Mercutio at the beginning of scene 4?* 
 
@@ -122,7 +122,7 @@ Now this is just plain mean. Look at who starts the teasing, and look into who i
 
 Romeo comes up with this big plan. The first step of his plan is for Juliet to get to the church. What is her excuse for going to church? Also, after the fact, what weird thing does Romeo request? Hint: what does "A tackled stair" mean? 
 
-## Scene 5
+### Scene 5
 
 27. *How long has Juliet been waiting for the Nurse to come with word from Romeo?*
 
@@ -140,7 +140,7 @@ We already know from when Romeo talked to the Nurse. This has to do with how Rom
 
 This foil is very similar to Mercutio's characteristics that foil with Romeo. Think about how many jokes the Nurse has been thought the story and how opposite that is to how Juliet talks. Also, notice how Mercutio and the Nurse, while both being a foil for Romeo and Juliet, really do not understand how much Romeo and Juliet care for each other.
 
-## Scene 6
+### Scene 6
 
 31. *Of what are we reminded by Friar Lawrence’s line “These violent delights have violent ends”?*
 

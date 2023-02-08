@@ -7,7 +7,7 @@ author: ["Michael"]
 teacher:
  - Basenback
 ---
- ## Prologue
+ ### Prologue
 
 1. *What is the place and setting of the play?* 
 
@@ -51,7 +51,7 @@ Divide the prologue into two parts. Learning about Romeo and Juliet's fate: Line
 If you like civics, ask yourself what is the purpose of the preamble of the constitution. Then apply it to this. If you are not a civics person, think of the prologue as a playbill. If you have ever been to a play, what does the playbill show you? 
 
 
-## Act 1, Scene 1
+### Act 1, Scene 1
 
 1. *The first scene of every Shakespeare tragedy was planned to get the attention of the groundlings, people of the lower classes who stood in the pit to watch the plays. Why might Scene 1 have appealed to the groundlings?*
 ![groundlings](https://tigertutoringtool.aamira.me/images/groundlings.webp)
@@ -94,7 +94,7 @@ Romeo mentions this many times. Hint: In Elizabethan England being pure was very
 
 You can connect Benvolio's advice to what his name means ("I wish" and "well") He is very relaxed, with simple solutions that aren't thought of quickly. Romeo has a negative reaction to Benvolio's statement. 
 
-## Act 1, Scene 2
+### Act 1, Scene 2
 
 10. *Why does Capulet's servant talk to Romeo and Benvolio?*
 
@@ -108,7 +108,7 @@ What we know from the text is that Romeo and Benvolio have been invited to a din
 
 Look in Romeo's speech when reading the note. Hint: Stage directions are usually in the beginning or end of the speech and in parenthesis. 
 
-## Act 1, Scene 3 
+### Act 1, Scene 3 
 
 13. *How old is Juliet?*
 
@@ -134,7 +134,7 @@ This is the main topic of their dialogue.
 
 Lady Capulet uses words like "pen," "volume," and "written," what are these words usually associated with?
 
-## Act 1, Scene 4 
+### Act 1, Scene 4 
 
 19. *What does Benvolio's plan suggest about his personality?* 
 
@@ -164,7 +164,7 @@ Look at how Mercutio has reacted throughout the whole story. Does who react nega
 
 Look at the end of the scene when Romeo talks. How does he feel, what is the mood? 
 
-## Act 1, Scene 5 
+### Act 1, Scene 5 
 
 26. *What do lines 15 through 32 reveal about Capulet?* 
 
