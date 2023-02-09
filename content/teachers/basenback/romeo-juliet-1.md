@@ -120,7 +120,7 @@ Look in Romeo's speech when reading the note. Hint: Stage directions are usually
 
 13. *How old is Juliet?*
 
-Look to the beginning of the scene where the Nurse and Lady Capulet are talking about Juliet. Hint: It seems that they are using the Lammastide event (an event celbrateing the harvest) as a way to keep track of her age. What to learn more about Lammastide? check out this website: [Juliet’s birthday: Shakespeare and Lammas-tide](http://theshakespeareblog.com/2013/07/juliets-birthday-shakespeare-and-lammas-tide/)
+Look to the beginning of the scene where the Nurse and Lady Capulet are talking about Juliet. Hint: It seems that they are using the Lammastide event (an event celbrateing the harvest) as a way to keep track of her age. Want to learn more about Lammastide? check out this website: [Juliet’s birthday: Shakespeare and Lammas-tide](http://theshakespeareblog.com/2013/07/juliets-birthday-shakespeare-and-lammas-tide/)
 
 14. *What do the Nurse's words reveal about her devotion to Juliet?*
 
