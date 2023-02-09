@@ -2,12 +2,16 @@
 title: "Romeo and Juliet"
 date: 2022-12-09T20:43:44-05:00
 draft: false
-author: ["Michael"]
+author: ["Michael & Aamir"]
 teacher:
  - Basenback
 TocOpen: true
 weight: 10
 ---
+
+Hey! ¡hola! Bonjour! السَّلَامُ عَلَيْكُمْ! Hallo! Hajj! Before we dive into the wonderful world of Romeo and Juliet, here are some words that Shakespeare invented! Super Cool!: [Shakespeare's Words](https://www.shakespeare.org.uk/explore-shakespeare/shakespedia/shakespeares-words/#:~:text=William%20Shakespeare%20is%20credited%20with,still%20used%20in%20English%20today&text=William%20Shakespeare%20used%20more%20than,words%20in%20the%20English%20language)
+
+Now lets begin...
 
 ## Act 1
 
@@ -385,3 +389,41 @@ Look at what she says after Benvolio finishes telling what happened. Her idea of
 9. *After taking the time to listen to both the Montagues and the Capulets about what transpired, what is the Prince’s ultimate sentence for Romeo? Why does the Prince not show any mercy for Romeo?*
 
 Look for the words banishment. The reason that the Prince is not showing mercy has to do with his original warning against fighting on the streets and how close he was with Tybalt.
+
+## Scene 2
+
+1. *Juliet, in her soliloquy that opens scene two, foreshadows what will happen to ROmeo. What does she mean when she says, "Give me my ROmeo; and, when he shall die, /Take him and cut him out in little stars, / And he will make the face of heaven so fine / That all the world will be in love with night."*
+
+Use your knowledge of the play and what you can get from the quote. Juliet loves Romeo so much that she would probably want to do what with Romeo. Also answer the text question and apply it to this. Think what do people usually want to do with the thing mentioned in the next question? 
+
+2. *After the lines noted in the previous question, what does Juliet say she has purchased? What is the metaphor comparing this to?* 
+
+Look for key words like "is" or "compared." Need more help? look for the word love. 
+
+3. *Write the line in which the Nurse's delivery of the "news" gives the wrong news to Juliet. What causes the Nurse to blurt out this information?*
+
+What news has the nurse just learned? Who just died? 
+
+4. *Comment on why you think the Nurse waits so long to give Juliet the correct news?*
+
+This is pretty opiniated. First think about the mental capacity of the nurse, then use the 3rd question to answer this one. 
+
+5. *Read the passage that begins, "O serpent heart..." Just a few minutes before learning the news of Tybalt's death, Juliet describes Romeo as her light in darkness; now what are her thoughts about Romeo?* 
+
+You should analyze Juliets word choice in the quote. Remember Romeo is Juliet's husband. 
+
+6. *Who does the nurse blame for this tragedy? Is she saying this because she cares about Juliet? Explain your response.*
+
+Look for who the nurse blames. This decesion should be obvious (No offense :) ). Also when you make the decesion, think of if the Nurse was saying this to support Juliet during this hard time? Heres a cool website about the Nurse! Also the first website that comes up when you search "Nurse From Romeo and Juliet"! [The Nurse](https://nosweatshakespeare.com/quotes/famous/a-plague-both-your-houses/) 
+
+7. *Juliet's response to the Nurse is direct and sharp: "Shall I speak ill of him that is my husband?" What suddenly happens to Juliet in her monologue that follows? Describe her state of mind. What does she decide at the end of this speach?* 
+
+Re-word this quote into an easier to read sentence: should I talk bad about my husband? Juliet is really loyal to Romeo, and she mentions this many times. Describe her emotions, how she feels. Put yourself in the Nurse's shoes. Shakespeare is amazing because of the way he writes. You can picture yourself in anyone of the characters situations and disect any part of the play. 
+
+8. *WHy does Juliet focus so much on the word "banished"?* 
+
+This is pretty straight forward. How would you feel when the one you love the most is banished? 
+
+9. *In her grief, why does Juliet call for the Nurse to bring her the cords"?* 
+
+This is where the story gets dark. Juliet is very upset about Romeo being banished. Interpret this statement in any way you desire. 
