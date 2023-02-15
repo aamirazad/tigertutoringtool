@@ -82,3 +82,9 @@ menu:
       name: Usage Agreement
       url: /usageagreement/
       weight: 60
+
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

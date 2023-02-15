@@ -1,15 +1,14 @@
 ---
 title: Honors Biology Cellular Respiration Quiz Tutoring
-author: 
--Michael
-teacher
+author:
+- Michael
+teacher:
 - Tinker 
-
 ---
 ## Formulas
 
 What is the formula for Alcohol Fermentation? 
-C6H12O6 --Zymase--> 2C2H5OH + 2CO2 
+C <sub>6</sub> H12O6 --Zymase --> 2C2H5OH + 2CO2 
 
 What is Cellular Respiration formula? 
 6O2 + C6H12O6 --> 6Co2 + H2O + energy
