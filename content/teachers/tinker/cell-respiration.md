@@ -1,10 +1,12 @@
 ---
 title: Honors Biology Cellular Respiration Quiz Tutoring
-author:
-- Michael
+date: 2023-02-14T20:36:14-05:00
+draft: false
+author: ["Michael"]
 teacher:
-- Tinker 
+ - Tinker
 ---
+
 ## Formulas
 
 What is the formula for Alcohol Fermentation?
