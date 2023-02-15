@@ -84,7 +84,4 @@ menu:
       weight: 60
 
 
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
+
