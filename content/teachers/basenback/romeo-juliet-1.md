@@ -390,7 +390,7 @@ Look at what she says after Benvolio finishes telling what happened. Her idea of
 
 Look for the words banishment. The reason that the Prince is not showing mercy has to do with his original warning against fighting on the streets and how close he was with Tybalt.
 
-## Scene 2
+### Scene 2
 
 1. *Juliet, in her soliloquy that opens scene two, foreshadows what will happen to ROmeo. What does she mean when she says, "Give me my ROmeo; and, when he shall die, /Take him and cut him out in little stars, / And he will make the face of heaven so fine / That all the world will be in love with night."*
 
@@ -420,7 +420,7 @@ Look for who the nurse blames. This decesion should be obvious (No offense :) ).
 
 Re-word this quote into an easier to read sentence: should I talk bad about my husband? Juliet is really loyal to Romeo, and she mentions this many times. Describe her emotions, how she feels. Put yourself in the Nurse's shoes. Shakespeare is amazing because of the way he writes. You can picture yourself in anyone of the characters situations and disect any part of the play. 
 
-8. *WHy does Juliet focus so much on the word "banished"?* 
+8. *Why does Juliet focus so much on the word "banished"?* 
 
 This is pretty straight forward. How would you feel when the one you love the most is banished? 
 
