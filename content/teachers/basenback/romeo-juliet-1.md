@@ -62,7 +62,7 @@ If you like civics, ask yourself what is the purpose of the preamble of the cons
 ### Scene 1
 
 1. *The first scene of every Shakespeare tragedy was planned to get the attention of the groundlings, people of the lower classes who stood in the pit to watch the plays. Why might Scene 1 have appealed to the groundlings?*
-![groundlings](https://tigertutoringtool.aamira.me/images/groundlings.webp)
+![groundlings](../../../images/groundlings.webp)
 
 This is a picture of groundlings (people standing below the stage). The groundlings had a front-row view. Ask yourself, what would you like to see close up, especially from the first scene? This can be opinionated but put yourself back in Shakespeare's day, and assume what the average person would like to see.
 
