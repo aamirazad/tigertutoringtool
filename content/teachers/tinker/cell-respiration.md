@@ -9,53 +9,53 @@ teacher:
 
 ## Formulas
 
-What is the formula for Alcohol Fermentation?
+Alcohol Fermentation formula
 
 : C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> --Zymase --> 2C<sub>2</sub>H<sub>5</sub>OH + 2CO<sub>2</sub> 
 
-What is Cellular Respiration formula?
+Cellular Respiration formula
 
 : 6O<sub>2</sub> + C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> --> 6CO<sub>2</sub> + 6H<sub>2</sub>O + energy
 
 ## General Information
 
-What enzyme is used in alcohol Fermentation?
+Enzyme is used in alcohol Fermentation
 
 : Zymase
 
-What does Alcohol Fermentation Form?
+Alcohol Fermentation's waste
 
 : Ethanol and CO<sub>2</sub> as waste
 
-Where does Alcohol Fermentation mainly occur?
+Site of Alcohol Fermentation
 
 : Yeast
 
-Who and When was the process explained?
+Creation of Alcohol Fermentation
 
 : Eduard Buchner, 1897
 
-What is ATP?
+ATP
 
 : Adenosine Triphosphate - stores and releases energy
 
-What is a **c**alorie?
+**c**alorie
 
 : The amount of energy needed to raise the temperature of one gram of water one degree Celsius
 
-What is a **C**alorie?
+**C**alorie
 
 : 1000 calories
 
-What is the Cell Membrane? 
+Cell Membrane? 
 
 : A phospholipid Bi-layer that divides interior and exterior sections of the cell
 
-What is cellular Respiration?
+Cellular Respiration?
 
 : Process that releases energy by breaking down glucose in the presence of oxygen
 
-What is Chemical Energy?
+Chemical Energy?
 
 : The energy of chemical substances that is released when they undergo a chemical reaction and transform into other substances. 
 
@@ -107,7 +107,7 @@ Matrix
 
 : Fluid inside inner membrane
 
-What is NAD+ 
+NAD+ 
 
 : Carrier Protein that carries electrons
 
@@ -120,18 +120,18 @@ FADH2
 : High energy electron carrier 
 
 
-How many ATPs does gylcolysis make
+ATPs made by gylcolysis
 
 : 2
 
-How many ATPS are made during Fermentation
+ATPs made during Fermentation
 
 : 2 
 
-How many ATPs does the Krebs cycle make? 
+ATPs the Krebs cycle makes 
 
 : 2
 
-How many ATPs does the Electron Transport Chain make? 
+ATPs the Electron Transport Chain makes 
 
 : 32
