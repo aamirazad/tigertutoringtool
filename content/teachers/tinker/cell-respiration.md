@@ -6,6 +6,10 @@ author: ["Michael"]
 teacher:
  - Tinker
 ---
+## Quizlet
+*Stanley's*
+
+<iframe src="https://quizlet.com/774628344/flashcards/embed?i=3g62kn&x=1jj1" height="500" width="100%" style="border:0"></iframe>
 
 ## Formulas
 
