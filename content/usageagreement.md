@@ -5,5 +5,5 @@ layout: "single"
 searchHidden: true
 ---
 
-## Usage Agreement 
-Please Read the [Usage Agreement](https://docs.google.com/document/d/e/2PACX-1vSadPd7q2hQDm4ubnzf3d4kXi-2Pd3fb8PHhBM3T0VPAdfvKwqBbGirPa7QGWqWLrfNeHivJBn_lFDw/pub). If you do not read the agreement, some rights that you reserve or are exempt from will not be know. Signing into this website you have agreed with the Usage rights. 
+## Read
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vToZvIlueCGh33xO8hvvFyQE8yhWwVMlxgo9fA2bszhzamU94Eq-R2AFXRDPPcutpPrHTmIWLaB-ISm/pub?embedded=true"></iframe>
