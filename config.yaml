@@ -74,14 +74,10 @@ menu:
       name: Search
       url: /search/
       weight: 30
-    - identifier: contribute
-      name: Contribute
-      url: /contribute/
+    - identifier: about
+      name: About
+      url: /about/
       weight: 50
-    - identifier: usage agreement
-      name: Usage Agreement
-      url: /usageagreement/
-      weight: 60
 
 markup:
   goldmark:
