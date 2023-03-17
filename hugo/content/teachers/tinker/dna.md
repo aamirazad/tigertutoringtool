@@ -9,4 +9,4 @@ teacher:
 
 ## Flashcards!
 
-<embed src="https://home.aamira.me/flash/DNA" scrolling="no" style="width:700px; height: 530px;">
+<embed src="https://apps.aamira.me/flash/DNA" scrolling="no" style="width:700px; height: 530px;">

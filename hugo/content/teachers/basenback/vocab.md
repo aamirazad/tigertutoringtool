@@ -9,4 +9,4 @@ teacher:
 Test 3/13
 ## Flashcards
 
-<embed src="https://home.aamira.me/flash/vocab" scrolling="no" style="width:700px; height: 530px;">
+<embed src="https://apps.aamira.me/flash/vocab" scrolling="no" style="width:700px; height: 530px;">
