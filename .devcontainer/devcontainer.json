@@ -35,6 +35,9 @@
 			"repositories": {
 				"aamirazad/tigertutoringtool": {
 					"permissions": "write-all"
+				},
+				"aamirazad/chirp": {
+					"permissions": "write-all"
 				}
 			}
 		}
