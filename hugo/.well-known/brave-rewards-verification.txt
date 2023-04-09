@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: aamira.me
+Token: 6451ed80df2336318526543f75703ce98a6100db3e4b3773fe42c399999dc52a
