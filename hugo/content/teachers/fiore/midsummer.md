@@ -1,0 +1,87 @@
+---
+title: "A Midsummer Night's Dream"
+date: 2023-12-10T22:02:34-05:00
+draft: true
+author: ["Aamir"]
+TocOpen: true
+teacher:
+ - Fiore
+---
+
+## Act 1
+
+### Scene 1
+
+* Theseus, the Duke of Athens is going to marry Hippolyta
+   * The wedding is in 4 days
+   * Theseus is very nervous
+      * He wants to impress Hippolyta to foreshadow nice things in their relationship
+   * Tells Philostrate to  organize entertainment
+* Egeus wants his daughter, Hermia, to marry Demetrius even though she wants to marry layander. 
+   * Egeus asks Theseus to lay down the law
+   * Theseus gives Hermia other options: become a nun or die
+   * Hermia believes in love over law
+   * Theseus tells her to think about it after she says she will become a nun, and tells her to decide by their wedding
+* Demitrius asks Hermia to change her mind, Lysander gets mad showing he also believes in love over law
+* Lysander adds that Demitrus earlier wooed and won Hermia
+* Hermia and Lysander decide to run away
+   * Lysander comes up with a plan to run away to his aunt's house away from athans and, by extension, their laws. They will meet in the woods the next night to run away
+   * Helena, Hermia’s friend, is sad because of this conflict
+   * Helena wishes she had Hermia’s beauty so that Demetrius would love her
+   * Helena loves Demetrius and wants to be with him no matter how much he hates her
+      * Wants to be treated like a dog (she wants him to own her)
+      * She tells Demetrius of Hermia’s plan to sneak out so that she could win Demetrius’ love
+
+### Scene 2
+
+* A play is introduced by Quince
+   * They meet at Quince’s house
+   * The play will happen during Theseus and Hippolyta's wedding
+   * It’s meant (by Shakespear) to seem amateur
+   * The play is about the death of Pyramus and Thisbe
+   * Snug, the lion, asks if he will be given lines
+      * He over-thinks his very simple role of just roaring. He even wonders whether to do a scary roar and if that would scare the woman
+   * Bottom considers himself with high authority and keeps 
+   * Bottom asks if Pyramis, the role he is playing, is “a lover or a tyrant”
+   * They will meet that night in the woods
+	Small Details I Will Forget:
+
+## Act 2
+
+### Scene 1
+
+* Robin (Puck) and a fairy talk about Oberon and Titania’s conflict
+   * The fairy asks if Puck has a nickname “sweet puck” who says yes and brags about his mischief.
+* Titania and Oberon debate about a Indian boy
+* Oberon wants Titania’s inherited son
+   * Titan really wants to keep him
+   * Their dislike for each other is shown and it is revealed, even though they are married, they don’t want to be
+   * Their fighting has caused disorder in nature, floods, natural disasters...
+      * This is also because of Titania wanting to go against her husband’s wants and keep the son
+   * Oberon vows to punish Titania for not obeying him
+* Oberon tells Puck about a queen who was almost shot but missed the mark, this spot turned “purple with love's wound” this flower causes whoever’s eyes it is placed on, to go madly in love with the first person they see
+   * Puck tells him he will get the flower by circling the world in forty minutes
+* Oberon makes a plan to put the potion on Titania’s eyes, and only freeing her in return for the changeling
+* Oberon listens to Demetrius and Helena
+   * Demetrius tells Helena to stop following him and that he will kill Lysander
+   * Helena says the more he hates her the more she loves him
+   * “women were meant to be wooed, not to woo”
+   * Oberon wants to make Demetrius love Helena so he tells Puck to put the flower on Demetrius
+   * Called Demetrius by a vague name “the athenian”
+
+### Scene 2
+
+* Oberon puts the drops on Titania, hoping the next person she sees is vile
+* Hermia and Lysander are lost in the woods
+   * Lysander wants to sleep with Hermia but she says to keep their modesty until they are married
+   * Lysander obey, saying he would rather die than disobey her (foreshadowing)
+* Puck sees Lysander and mistakes his Athenian clothes for Demetrius
+   * Puts the drops on Lysander
+* Helena, unable to keep up with Demetrius, stops and notices Lysander on the ground and wakes him
+   * He immediately declares his love for her
+   * He curses Demetrius for mistreating her and curses himself for wasting so many minutes with Hermia
+   * Helena thinks Lysander is mocking her
+   * Lysander leaves with Helena leaving Hermia
+* Hermia awakes from a nightmare where a serpent was eating her heart while Lysander stood by, smiling and doing nothing
+* Hermia, terrified, goes to find Lysander
+
