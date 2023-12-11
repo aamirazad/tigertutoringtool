@@ -142,7 +142,7 @@ teacher:
 
 ## Act 3
 
-## Scene 1
+### Scene 1
 
 - The laborers (the people making the play) enter the woods to where Titania sleeps
 
