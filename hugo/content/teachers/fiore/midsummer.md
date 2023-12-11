@@ -13,24 +13,42 @@ teacher:
 ### Scene 1
 
 - **Theseus, the Duke of Athens is going to marry Hippolyta**
-  - The wedding is in 4 days
-  - **Theseus is very nervous**
-    - He wants to impress Hippolyta to foreshadow nice things in their relationship
-  - **Tells Philostrate to  organize entertainment**
+
+  - The wedding is in 4 days
+
+  - **Theseus is very nervous**
+
+    - He wants to impress Hippolyta to foreshadow nice things in their relationship
+
+  - **Tells Philostrate to  organize entertainment**
+
 - **Egeus wants his daughter, Hermia, to marry Demetrius even though she wants to marry layander.** 
-  - **Egeus asks Theseus to lay down the law**
-  - **Theseus gives Hermia other options: become a nun or die**
-  - Hermia believes in love over law
-  - Theseus tells her to think about it after she says she will become a nun, and tells her to decide by their wedding
+
+  - **Egeus asks Theseus to lay down the law**
+
+  - **Theseus gives Hermia other options: become a nun or die**
+
+  - Hermia believes in love over law
+
+  - Theseus tells her to think about it after she says she will become a nun, and tells her to decide by their wedding
+
 - Demitrius asks Hermia to change her mind, Lysander gets mad showing he also believes in love over law
+
 - Lysander adds that Demitrus earlier wooed and won Hermia
+
 - **Hermia and Lysander decide to run away**
-  - **Lysander comes up with a plan to run away to his aunt's house away from athans and, by extension, their laws. They will meet in the woods the next night to run away**
-  - Helena, Hermia’s friend, is sad because of this conflict
-  - Helena wishes she had Hermia’s beauty so that Demetrius would love her
-  - **Helena loves Demetrius and wants to be with him no matter how much he hates her**
-    - **Wants to be treated like a dog (she wants him to own her)**
-    - **She tells Demetrius of Hermia’s plan to sneak out so that she could win Demetrius’ love**
+
+  - **Lysander comes up with a plan to run away to his aunt's house away from athans and, by extension, their laws. They will meet in the woods the next night to run away**
+
+  - Helena, Hermia’s friend, is sad because of this conflict
+
+  - Helena wishes she had Hermia’s beauty so that Demetrius would love her
+
+  - **Helena loves Demetrius and wants to be with him no matter how much he hates her**
+
+    - **Wants to be treated like a dog (she wants him to own her)**
+
+    - **She tells Demetrius of Hermia’s plan to sneak out so that she could win Demetrius’ love**
 
 ### Scene 2
 
