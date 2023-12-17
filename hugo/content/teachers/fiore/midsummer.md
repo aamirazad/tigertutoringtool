@@ -261,3 +261,37 @@ Notes on the Shakespeare's play *A Midsummer Night's Dream*. Bolded points are i
 -  **The Mechanicals worry where Bottom is, as they need a Pyramus and Bottom is the only one who can do Pyramus**
 
 - **But he enters, not saying where he was**
+
+## Act 5
+
+### Scene 1
+
+- **Theseus and Hippolyta debate the authenticity of the lover's story. Hippolyta mention how they all had the same story and woke up together**
+
+- Theseus, always literal, dismisses the lover’s “dream”, while Hippolyta argues the outcome could not be explained using logic as the result was much more powerful than reason or law could have done
+
+- **For the entertainment for the night, Theseus, first angry with the selection from Philostrate brings, chooses the play of Pyramus and Thisbe**
+
+- Theseus finds the name odd as it has all sorts of contradictions,
+
+- **Philostrate tells Theseus that the play actors are all Laborers who really aren’t that good, Hippolyta doesn’t like this because she doesn’t want to laugh at people**
+
+- **Theseus says he will reward them for the spirit of their actions not their acting**
+
+- This shows how even though the laborers were worried the audience would think their acting would be too good, ex. they would think the lion was real. But it shows how Theseus can see the reality beneath, he always looks for what is real
+
+- **Quince starts the play by giving a very long prologue that explains everything** 
+
+- The audience makes jokes and insults at how Quince talks so fast without punctuation
+
+- **As the play goes on, more jokes were made about how the wall talks**
+
+- Bottom stops to rebuttal these insults, showing how he was so worried about the audience thinking it was real he was fine with showing his real self
+
+- During the play, many incorrect references were made
+
+- Pyramus and Thisbe are very similar to Lysander and Hermia during the beginning of the play
+
+- **After the play, Bottom asks whether they would like to see a epilogue or a dance, the crowd insists on not an epilogue**
+
+- **Bottom says if everyone was offended, they didn’t like the play, they should just think of the play as if it was a dream**
