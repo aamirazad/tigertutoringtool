@@ -229,3 +229,35 @@ Notes on the Shakespeare's play *A Midsummer Night's Dream*. Bolded points are i
 ### Scene 3
 
 -  **Puck gets the four lovers together and puts the drops on Lysander’s eyes making him love Hermia once again**
+
+## Act 4
+
+### Scene 1
+
+-  **Titania is with Bottom, putting flowers in his hair**
+
+  -  Titania asks what he'd like to eat, he asks for some dry oats or a handful of peas, and then they both fall asleep
+
+- **Oberon says he got Titania the changeling the day before, and he felt sorry for Titania.**
+
+  - **Tells Puck to put Bottom’s head back and puts the drops on Titania, so she would love him again**
+
+  - They dance
+
+- **Theseus wonders why all 4 lovers are sleeping together when they were all angry at each other**
+
+  - **Lysander tells Theseus doesn’t know why, but he wants to be with Hermia, which angers Egeus, but then tells him that “by some power” Demetrius now loves Helena**
+
+  - **Theseus overrules Egeus and says the four lovers will marry at his wedding**
+
+  - Since Theseus is the upholder of the law, he can choose what laws to enforce
+
+  - The lover’s don’t really know what happened, but they know some power changed them in such a happy way that reason and law could have never done
+
+- Bottom wakes and is told there are no more rehearsals, he thinks his experience was a dream as well
+
+### Scene 2
+
+-  **The Mechanicals worry where Bottom is, as they need a Pyramus and Bottom is the only one who can do Pyramus**
+
+- **But he enters, not saying where he was**
