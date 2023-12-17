@@ -14,23 +14,23 @@ teacher:
 
 - **Theseus, the Duke of Athens is going to marry Hippolyta**
 
-    - The wedding is in 4 days
+  - The wedding is in 4 days
 
-    - **Theseus is very nervous**
+  - **Theseus is very nervous**
 
-        - He wants to impress Hippolyta to foreshadow nice things in their relationship
+    - He wants to impress Hippolyta to foreshadow nice things in their relationship
 
-    - **Tells Philostrate to    organize entertainment**
+  - **Tells Philostrate to  organize entertainment**
 
-- **Egeus wants his daughter, Hermia, to marry Demetrius even though she wants to marry layander.** 
+- **Egeus wants his daughter, Hermia, to marry Demetrius even though she wants to marry layander.** 
 
-    - **Egeus asks Theseus to lay down the law**
+  - **Egeus asks Theseus to lay down the law**
 
-    - **Theseus gives Hermia other options: become a nun or die**
+  - **Theseus gives Hermia other options: become a nun or die**
 
-    - Hermia believes in love over law
+  - Hermia believes in love over law
 
-    - Theseus tells her to think about it after she says she will become a nun, and tells her to decide by their wedding
+  - Theseus tells her to think about it after she says she will become a nun, and tells her to decide by their wedding
 
 - Demitrius asks Hermia to change her mind, Lysander gets mad showing he also believes in love over law
 
@@ -38,30 +38,39 @@ teacher:
 
 - **Hermia and Lysander decide to run away**
 
-    - **Lysander comes up with a plan to run away to his aunt's house away from athans and, by extension, their laws. They will meet in the woods the next night to run away**
+  - **Lysander comes up with a plan to run away to his aunt's house away from athans and, by extension, their laws. They will meet in the woods the next night to run away**
 
-    - Helena, Hermia’s friend, is sad because of this conflict
+  - Helena, Hermia’s friend, is sad because of this conflict
 
-    - Helena wishes she had Hermia’s beauty so that Demetrius would love her
+  - Helena wishes she had Hermia’s beauty so that Demetrius would love her
 
-    - **Helena loves Demetrius and wants to be with him no matter how much he hates her**
+  - **Helena loves Demetrius and wants to be with him no matter how much he hates her**
 
-        - **Wants to be treated like a dog (she wants him to own her)**
+    - **Wants to be treated like a dog (she wants him to own her)**
 
-        - **She tells Demetrius of Hermia’s plan to sneak out so that she could win Demetrius’ love**
+    - **She tells Demetrius of Hermia’s plan to sneak out so that Demetrius would leave Hermia and be with her**
 
 ### Scene 2
 
 - **A play is introduced by Quince**
-    - They meet at Quince’s house
-    - **The play will happen during Theseus and Hippolyta's wedding**
-    - **It’s meant (by Shakespear) to seem amateur**
-    - The play is about the death of Pyramus and Thisbe
-    - Snug, the lion, asks if he will be given lines
-        - He over-thinks his very simple role of just roaring. He even wonders whether to do a scary roar and if that would scare the woman
-    - **Bottom considers himself with high authority and keeps** 
-    - Bottom asks if Pyramis, the role he is playing, is “a lover or a tyrant”
-    - **They will meet that night in the woods**
+
+  - They meet at Quince’s house
+
+  - **The play will happen during Theseus and Hippolyta's wedding**
+
+  - **It’s meant (by Shakespear) to seem amateur**
+
+  - The play is about the death of Pyramus and Thisbe
+
+  - Snug, the lion, asks if he will be given lines
+
+    - He over-thinks his very simple role of just roaring. He even wonders whether to do a scary roar and if that would scare the woman
+
+  - **Bottom considers himself with high authority and keeps** 
+
+  - Bottom asks if Pyramis, the role he is playing, is “a lover or a tyrant”
+
+  - **They will meet that night in the woods**
 
 ## Act 2
 
