@@ -225,3 +225,7 @@ Notes on the Shakespeare's play *A Midsummer Night's Dream*. Bolded points are i
   - This fighting shows that loves can cause not only emotional pain, but physical pain
 
   - **Oberon yells at Puck for playing these tricks and instructs him to keep the boys apart**
+
+### Scene 3
+
+-  **Puck gets the four lovers together and puts the drops on Lysander’s eyes making him love Hermia once again**
