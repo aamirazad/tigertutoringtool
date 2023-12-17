@@ -110,7 +110,7 @@ Notes on the Shakespeare's play *A Midsummer Night's Dream*. Bolded points are i
 
   - “women were meant to be wooed, not to woo”
 
-  - **Oberon wants to make Demetrius love Helena so he tells Puck to put the flower on Demetrius**
+  - **Oberon wants to make Demetrius love Helena, so he tells Puck to put the flower on Demetrius**
 
   - Called Demetrius by a vague name “the Athenian”
 
