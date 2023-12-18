@@ -13,7 +13,7 @@ teacher:
 
 ## My own flashcard system
 
-<embed src="https://apps.aamira.me/flash/cell-respiration" scrolling="no" style="width:700px; height: 530px;">
+<embed src="https://tigertutoringtool.vercel.app/flash/cell-respiration" scrolling="no" style="width:700px; height: 530px;">
 
 ## Formulas
 
