@@ -1,0 +1,13 @@
+<script type="text/javascript" src="https://latest.cactus.chat/cactus.js"></script>
+<link rel="stylesheet" href="https://latest.cactus.chat/style.css" type="text/css">
+<div id="comment-section"></div>
+{{ $titleWithUnderscores := replace .Title " " "-" }}
+<script>
+initComments({
+  node: document.getElementById("comment-section"),
+  defaultHomeserverUrl: "https://chat.aamira.me",
+  serverName: "chat.aamira.me",
+  siteName: "tigertutoringtool",
+  commentSectionId: "test"   
+})
+</script>
