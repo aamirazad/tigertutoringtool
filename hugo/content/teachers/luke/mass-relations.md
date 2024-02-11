@@ -1,7 +1,7 @@
 ---
 title: "Mass Relations in Chemistry"
 date: 2024-02-11T16:02:02-05:00
-draft: true
+draft: false
 math: true
 TocOpen: true
 author: ["Aamir"]
