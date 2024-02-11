@@ -220,18 +220,18 @@ teacher:
 ### Chapter 16
 
 - Chris leaves Carthage for Alaska driven by Gaylord Stuckey
-  - Stuckey is reuctant to let Chris go on this 'ill-considered adventure'
+  - Stuckey is reluctant to let Chris go on this 'ill-considered adventure'
   - Charmed by Chris and drives him all the way to Fairbank unlike what he said
   - Warns Chris there is still snow and few plants and berries to eat
 - Picks up a guide to edible plants (no not those) and buys a rifle
 - Gets a ride from Jim Gallien, and enters the Alaskan bush alone carring nothing but rifle, his backpack filled with rice, and a small collection of books
 - On the Stampede Trail, Chris crosses the low Teklanika River waters to discover a bus (Bus 142) where he sets up camp
-- After struggling to shoot animals, when the summer comes he starts to trive in the harsh conditions
+- After struggling to shoot animals, when the summer comes he starts to thrive in the harsh conditions
   - Tries to continue walking but because of the meting snow, he goes back to the bus
-- Chris gets very exiced when he shoots a moose
-  - But he dys it infinitaly and ends up making most of it spoil
+- Chris gets very exited when he shoots a moose
+  - But he drys it ineffectively and ends up making most of it spoil
   - Very disappointed himself for killing a animal (which he doesn't like doing) and not even using the meet
-- He comes to terms with his errors deciding to learn from them and trys to return to civilation in July
+- At the climax of the story, he comes to terms with his errors deciding to learn from them and tries to return to civilization in July
   - But because of the melting snow, the Teklanika River has become much more active and he, correctly, realizes he can't cross it
 
 ### Chapter 17
@@ -252,7 +252,7 @@ teacher:
 - Chris continues his routine of hunting and gathering but is still pretty thin
 - In the margins of Doctor Zhivago he writes "happiness \[is\] only real when shared"
 - At the end of July he scribbles in his journal that he is weak and in grave danger, mentioning potato seeds
-- After exploring other reasons, Krakauer decides Chris died, not because of incompetience of eating poisonous seeds, but because of luck
+- After exploring other reasons, Krakauer decides Chris died, not because of incompetence of eating poisonous seeds, but because of luck
   - The edible potato seeds were laced with a very toxic mold
 - If Chris had carried a map he would have also realized that there were four cabins
 - After posting a SOS note on his bus, he spends his last days reading books
