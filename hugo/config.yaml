@@ -24,7 +24,7 @@ params:
   description: "Get help for your classes"
   author: ["Aamir", "Michael"]
   ShowToc: true
-  defaultTheme: auto
+  defaultTheme: dark
   ShowBreadCrumbs: false
   ShowReadingTime: true
   ShowCodeCopyButtons: false
