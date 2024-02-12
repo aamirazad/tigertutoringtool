@@ -51,7 +51,7 @@ $$
 \frac{1.26molCO_{2}}{1}\times\frac{44.01gCO_{2}}{1molCO_{2}}=55.gCO_{2}
 $$
 
-### The other side of the mole map
+### The other side of the mole map (formula units)
 
 - A mole of sulfur is 6.02x10<sup>23</sup> atoms$
 - A mole of water is 6.02x10<sup>23</sup> molecules$
@@ -88,7 +88,7 @@ $$
 
 - Break down the word:
   - Stoichio - "Elements"
-  - Metro - "To mesure"
+  - Metro - "To measure"
 - Mole of moles -> moles of water
 - Road map
   ![](../images/stoichiometry-process-diagram.svg)
@@ -160,7 +160,7 @@ $$
   45gF_{2}\times \frac{1molF_{2}}{37.996gF_{2}} \times \frac{2molNaF}{1molF_{2}}\times \frac{41.988gNaF}{1molNaF}=99.5gNaF
   $$
 
-#### Limiting factor
+### Limiting factor
 
 - CH<sub>4</sub> + 2O<sub>2</sub> → CO<sub>2</sub> + 2H<sub>2</sub>O
 
@@ -174,7 +174,7 @@ $$
 
 - Oxygen was the limiting factor with 0.5moles
 
-#### Percent yield
+### Percent yield
 
 $$
 \text{Percent Yield} = \frac{\text{Actual Yield}}{\text{Theoretical Yield}} \times 100\%
