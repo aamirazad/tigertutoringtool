@@ -8,7 +8,9 @@ author: ["Aamir"]
 teacher:
   - Luke
 ---
+## Chapter overview
 
+![Overview](../images/mass-realations-overview.svg)
 
 ### Using abundance
 
