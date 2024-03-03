@@ -7,9 +7,7 @@ teacher:
   - Fiore
 ---
 
-# Oedipus at Colonus
-
-### Lines 1-576
+## Lines 1-576
 
 - _It is years after Oedipus is banished from Thebes_
 - _Colonus, ruled by the city of Athens_
@@ -55,7 +53,7 @@ teacher:
     - Then he will take 27 sprays of olive hand following hand and lay them there with a prayer
     - Ismene says she will go and preform the rites while Antigone will watch over Oedipus
 
-### Lines 577-1192
+## Lines 577-1192
 
 - The chorus asks him to tell his story
   - He doesn't want to talk about it
