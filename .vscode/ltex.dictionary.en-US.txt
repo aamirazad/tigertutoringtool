@@ -2,3 +2,7 @@ Philostrate
 Egeus
 Hermia
 Thisbe
+Jacosta
+Polybus
+Citheron
+Ismene
