@@ -75,3 +75,7 @@ teacher:
   - Admires its horses and natural beauty
   - Mentions the favor that Poseidon had bestowed upon it
 - Antigone notifies everyone that Creon is coming
+
+## References
+
+Campodonico, Christina. "Into the Wild." LitCharts. LitCharts LLC, 11 Aug 2014. Web. 3 Mar 2024.

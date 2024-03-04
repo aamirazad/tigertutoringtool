@@ -263,3 +263,7 @@ teacher:
 - Krakauer accompanies Walt and Billie on a helicopter to see the site
 - They make a memorial to Chris with flowers a plaque, a survival kit and a note urging whoever comes here to call their parents
 - They create a sanctuary for Chris but also to warn others of natures power and the wild ways of youth
+
+## References
+
+Lichtenstein, Jesse. "Oedipus Rex." LitCharts. LitCharts LLC, 22 Jul 2013. Web. 3 Mar 2024.

@@ -5,10 +5,10 @@ draft: false
 author: ["Aamir"]
 TocOpen: true
 teacher:
-- Fiore
+  - Fiore
 ---
 
-Notes on the Shakespeare's play *A Midsummer Night's Dream*. Bolded points are important events while unbolded points are more deeper analysis or smaller events. 
+Notes on the Shakespeare's play _A Midsummer Night's Dream_. Bolded points are important events while unbolded points are more deeper analysis or smaller events.
 
 ## Act 1
 
@@ -24,7 +24,7 @@ Notes on the Shakespeare's play *A Midsummer Night's Dream*. Bolded points are i
 
   - **Tells Philostrate to organize entertainment**
 
-- **Egeus wants his daughter, Hermia, to marry Demetrius even though she wants to marry Lysander.** 
+- **Egeus wants his daughter, Hermia, to marry Demetrius even though she wants to marry Lysander.**
 
   - **Egeus asks Theseus to lay down the law**
 
@@ -68,7 +68,7 @@ Notes on the Shakespeare's play *A Midsummer Night's Dream*. Bolded points are i
 
     - He over-thinks his very simple role of just roaring. He even wonders whether to do a scary roar and if that would scare the woman
 
-  - **Bottom considers himself with high authority and keeps** 
+  - **Bottom considers himself with high authority and keeps**
 
   - Bottom asks if Pyramus, the role he is playing, is “a lover or a tyrant”
 
@@ -204,7 +204,7 @@ Notes on the Shakespeare's play *A Midsummer Night's Dream*. Bolded points are i
 
   - **Demetrius wakes and sees Helena and immediately declares love for her, Helena is freaked out**
 
-  -  ****“Oh, cruelty! Oh, torture!” Helena believes they are playing a trick on her, mocking her, 
+  - \*\*\*\*“Oh, cruelty! Oh, torture!” Helena believes they are playing a trick on her, mocking her,
 
   - **Lysander and Demetrius, yelling at each other to stop loving Helena, that Helena is theirs, want to fight**
 
@@ -228,15 +228,15 @@ Notes on the Shakespeare's play *A Midsummer Night's Dream*. Bolded points are i
 
 ### Scene 3
 
--  **Puck gets the four lovers together and puts the drops on Lysander’s eyes making him love Hermia once again**
+- **Puck gets the four lovers together and puts the drops on Lysander’s eyes making him love Hermia once again**
 
 ## Act 4
 
 ### Scene 1
 
--  **Titania is with Bottom, putting flowers in his hair**
+- **Titania is with Bottom, putting flowers in his hair**
 
-  -  Titania asks what he'd like to eat, he asks for some dry oats or a handful of peas, and then they both fall asleep
+  - Titania asks what he'd like to eat, he asks for some dry oats or a handful of peas, and then they both fall asleep
 
 - **Oberon says he got Titania the changeling the day before, and he felt sorry for Titania.**
 
@@ -258,7 +258,7 @@ Notes on the Shakespeare's play *A Midsummer Night's Dream*. Bolded points are i
 
 ### Scene 2
 
--  **The Mechanicals worry where Bottom is, as they need a Pyramus and Bottom is the only one who can do Pyramus**
+- **The Mechanicals worry where Bottom is, as they need a Pyramus and Bottom is the only one who can do Pyramus**
 
 - **But he enters, not saying where he was**
 
@@ -280,7 +280,7 @@ Notes on the Shakespeare's play *A Midsummer Night's Dream*. Bolded points are i
 
 - This shows how even though the laborers were worried the audience would think their acting would be too good, ex. they would think the lion was real. But it shows how Theseus can see the reality beneath, he always looks for what is real
 
-- **Quince starts the play by giving a very long prologue that explains everything** 
+- **Quince starts the play by giving a very long prologue that explains everything**
 
 - The audience makes jokes and insults at how Quince talks so fast without punctuation
 
@@ -295,3 +295,7 @@ Notes on the Shakespeare's play *A Midsummer Night's Dream*. Bolded points are i
 - **After the play, Bottom asks whether they would like to see a epilogue or a dance, the crowd insists on not an epilogue**
 
 - **Bottom says if everyone was offended, they didn’t like the play, they should just think of the play as if it was a dream**
+
+## References
+
+Florman, Ben. "A Midsummer Night's Dream." LitCharts. LitCharts LLC, 22 Jul 2013. Web.  3 Mar 2024.

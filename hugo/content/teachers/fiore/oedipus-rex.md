@@ -126,3 +126,7 @@ Also called Oedipus the King
   - When he leaves, tries to tell Creon not to take them away from him
   - _He still wants to be king and have authority even though he lost all of it_
 - The Chorus concludes stating nobody is able to escape their destiny
+
+#@ Works Cited
+
+Lichtenstein, Jesse. "Oedipus Rex." LitCharts. LitCharts LLC, 22 Jul 2013. Web. 3 Mar 2024.
