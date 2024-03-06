@@ -1,13 +1,11 @@
 ---
 title: "Oedipus at Colonus"
 date: 2024-03-03T16:59:25-05:00
-draft: true
+draft: false
 author: ["Aamir"]
 teacher:
   - Fiore
 ---
-
-# Oedipus at Colonus
 
 ### Lines 1-576
 
@@ -76,7 +74,71 @@ teacher:
 - The chorus praises Oedipus's new home, Colonus of Athens
   - Admires its horses and natural beauty
   - Mentions the favor that Poseidon had bestowed upon it
-- Antigone notifies everyone that Creon is coming
+- Antigone notifies everyone that Creon is coming with his bodyguard
+  - Creon says he comes in peace and tells Oedipus that his whole people summon him home
+  - Oedipus goes on a long rant about how Creon wouldn't exile him when he wanted to be exiled, then when he wanted to come home, wasn't allowed and now, when Oedipus is happy in Athens, Creon wants to take him again
+  - Creon says Oedipus is a disgrace to old age
+  - Creon orders his guards to take Oedipus's two daughters, the Chorus can't stop him
+  - The Chorus tries to block Creon from leaving
+  - Creon threatens to forcefully take Oedipus as well
+  - Chorus calls for help
+- Theseus arrives with a armed escort
+  - Oedipus explains to him what happened
+  - Theseus quickly organizes people to chase Creon down saying it is against the law and he wouldn't do the same to Thebes
+  - _Upholding his promise to protect Oedipus_
+- Creon believes he is not in the wrong cause he still thinks Oedipus is a really bad guy
+  - Creon: "A man's anger can never age and fade away not until he dies. The dead alone feel no pain"
+  - Death is happiness, life is suffering
+  - Oedipus defends himself saying he was forced to do those things by the gods
+  - He praises Athens and calls on the Furies to fight for his cause
+- Theseus orders Creon to take him to the daughters
+  - Creon says he will be able to fight in Thebes
+  - Theseus promises to get Oedipus's daughters, Oedipus is thankful
+
+### Lines 1193-1645
+
+- The Chorus is imaging this great fight, predicting that Theseus will have a glorious victory, praying to Zeus, Athena, Apollo, and Artemis
+- _Once again, because they can't show gore, Sophocles uses the Chorus's imagination to make the audience imaging what the battle is like_
+- Theseus returns with Antigone and Ismene
+  - Oedipus is very happy and asks Theseus what happened
+  - Theseus says he doesn't want to boast and would rather be admired by his actions than words
+  - _Even more proof he is a good king, contrasting with Creon's boasting of his military power_
+- Theseus reports of a man who wants to talk to Oedipus
+  - This man is Polynices, Oedipus's older son
+  - Oedipus doesn't want to see him but Antigone and Theseus says there's no harm in listening to him
+  - _The second person to try to win Oedipus_
+  - The Chorus sings about the misery of life and bliss of death
+  - They talk about the horrors of old age and how its better to die young
+- Polynices weeps to Oedipus
+  - He calls himself "the worst man alive" and apologies for not helping Oedipus when he was exiled
+  - Oedipus refuses to speak, Polynices begs to Antigone and Ismene to help
+  - Polynices says his younger brother, Eteocles, took over Thebes by bribing people and banished Polynices
+  - Polynices says he made a army and is ready to attack Thebes, but the oracles say whatever side Oedipus supports will win
+  - _He doesn't really care about Oedipus and just wants to win the war_
+- Oedipus rails on Polynices
+  - Oedipus, after insulting Polynices a ton, predicts he will lose the war and die
+  - Polynices asks his sisters to give him a proper burial if he does die
+  - Antigone asks him to back down; doesn't because its humiliating
+  - _Fatal flaw: pride_
+  - Oedipus promises Polynices and Eteocles will kill each other in battle
+  - Polynices won't tell his army he didn't get the blessing
+  - Prays that Antigone will have a happy live as long as she fulfills her promise to give him a proper burial
+  - _Conditional love_
+
+### Lines 1646-2001
+
+- Oedipus is going to die soon (thunder)
+  - Tells Theseus to not tell anyone where he is buried cause Creon might steal his body
+- A messenger reveals Oedipus is dead
+  - _Cause of Greek rules, can't show the death_
+  - His daughters bathed him with holy water and dressed him with linen (more thunder)
+  - Oedipus asked Theseus to protect his daughters
+  - Oedipus then just vanishes like he was taken by a god
+  - _The thunder was a sign that the gods were involved_
+- Antigone and Ismene don't know what to do without their father
+  - They ask to see his tomb, but Theseus doesn't allow it cause his promise
+  - Antigone asks for her and her sister to be taken to Thebes to stop the war between their brothers
+  - Theseus agrees
 
 ## References
 

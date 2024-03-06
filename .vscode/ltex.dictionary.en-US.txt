@@ -2,8 +2,12 @@ Philostrate
 Egeus
 Hermia
 Thisbe
+<<<<<<< HEAD
 Jacosta
 Polybus
 Citheron
 Ismene
 Colonus
+=======
+>>>>>>> parent of 648c534 (Oedipus rex)
+Polynices
