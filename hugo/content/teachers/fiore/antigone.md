@@ -20,3 +20,5 @@ teacher:
   - Ismene is scared of Creon's rules and her sister's rash words
   - _Ismene is the stereotypical Greek woman who is inferior to men and can't think for themselves_
   - Ismene says she won't help
+  - Antigone says she will do it no matter and mocks Ismene for not
+  - Antigone argues that burying Polynices is obeying the laws of the gods
