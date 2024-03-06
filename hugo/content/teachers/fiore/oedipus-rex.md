@@ -42,7 +42,7 @@ Also called Oedipus the King
   - The leader of the chorus suggests that Oedipus send for Tiresias, the blind prophet
   - Oedipus says he already did
 
-## Lines 341-708
+### Lines 341-708
 
 - Tiresias, when asked for advice on how to find the killers of Laius, says he does know information, but won't tell
   - Even though Oedipus gets mad, Tiresias wants to protect him
@@ -71,7 +71,7 @@ Also called Oedipus the King
   - Oedipus refuses to listen, and declares he wants Creon dead
 - Jocasta—Oedipus's wife and Creon's sister enters
 
-## Lines 709-997
+### Lines 709-997
 
 - _Jacosta is another mediator_
 - Says it is shameful to argue on the streets
@@ -90,7 +90,7 @@ Also called Oedipus the King
   - Oedipus tells her his whole life story
   - After she describes Laius, he really becomes worried
 
-## Lines 998-1310
+### Lines 998-1310
 
 - A messenger comes and tells him Polybus, king of Corinth is dead
   - This is the man Oedipus thinks was his father, so for now. it confirms the prophecies were false
@@ -103,7 +103,7 @@ Also called Oedipus the King
   - But refuses to speak about the baby
   - But after Oedipus threatens to kill him, he admits the baby was the son of Laius and Jacosta
 
-## Lines 1311-1680
+### Lines 1311-1680
 
 - The Chorus believes even though Oedipus saved them from the Sphinx, it would have been better without
 - Oedipus searches for Jacosta and finds she hung herself
