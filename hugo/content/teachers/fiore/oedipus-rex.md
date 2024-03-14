@@ -10,7 +10,7 @@ teacher:
 
 Also called Oedipus the King
 
-## Lines 1-340
+### Lines 1-340
 
 - The play starts in the royal house of Thebes
 - Oedipus had killed the Spinx years ago and has been king of Thebes since
@@ -111,8 +111,8 @@ Also called Oedipus the King
     - _His sight was not real how only now he can see clearly ("what good are eyes to me?")_
     - _Tiresias predicted Oedipus would become blind_
     - The Chorus asks why he doesn't kill himself, he says he couldn't bear to look at his father and mother in hell
-  - \_The messenger tells the audience this happened because they are not allowed to show gore on stage
-- As Oedipus does, he starts blaming people
+  - _The messenger tells the audience this happened because they are not allowed to show gore on stage
+- As Oedipus does, he starts blaming people_
   - Blames the shepherd for saving him, the mountain Citheron for giving him shelter, his foster parents Polybus, and Corinth for raising him, the crossroads, and marriage
   - _The crossroads is a Greek symbol for a decision_
 - Creon (the last king of Thebes) enters
@@ -127,6 +127,6 @@ Also called Oedipus the King
   - _He still wants to be king and have authority even though he lost all of it_
 - The Chorus concludes stating nobody is able to escape their destiny
 
-#@ Works Cited
+## Works Cited
 
 Lichtenstein, Jesse. "Oedipus Rex." LitCharts. LitCharts LLC, 22 Jul 2013. Web. 3 Mar 2024.
