@@ -7,6 +7,7 @@ teacher:
   - Fiore
 ---
 
+- We never finished reading the play in class
 - Rules of god vs Rules of man
 
 ### Lines 1-416
