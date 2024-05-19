@@ -1,8 +1,0 @@
-{
-  "devDependencies": {
-    "tailwindcss": "^3.2.4"
-  },
-  "dependencies": {
-    "flamethrower-router": "^0.0.0-meme.12"
-  }
-}
