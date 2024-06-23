@@ -1,0 +1,3 @@
+[submodule "Vault"]
+	path = Vault
+	url = ssh://git@debian:222/aamirazad/Vault.git

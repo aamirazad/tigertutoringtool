@@ -1,5 +1,7 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { RemovePrivate } from "./quartz/plugins/filters/private"
+import { RemoveExcalidraw } from "./quartz/plugins/filters/excalidraw"
 
 /**
  * Quartz 4.0 Configuration
@@ -70,7 +72,7 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    filters: [Plugin.RemoveDrafts(), RemovePrivate(), RemoveExcalidraw()],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
