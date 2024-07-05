@@ -18,7 +18,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "tigertutoringtool.aamira.me",
+    baseUrl: "tigertutoringtool.typhon-sirius.ts.net",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -31,13 +31,13 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#000046",
+          light: "#faf8f8",
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
+          secondary: "#000162",
+          tertiary: "#00203f",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
@@ -46,7 +46,7 @@ const config: QuartzConfig = {
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",
-          secondary: "#7b97aa",
+          secondary: "#8e7b27",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
         },

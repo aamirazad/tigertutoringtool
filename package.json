@@ -1,19 +1,19 @@
 {
-  "name": "@jackyzha0/quartz",
-  "description": "🌱 publish your digital garden and notes as a website",
+  "name": "tigertutoringtool",
+  "description": "a website for students built by students",
   "private": true,
-  "version": "4.2.3",
+  "version": "0.0.1",
   "type": "module",
-  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
-  "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
+  "author": "aamira <aamirmazad@gmail.com>",
+  "license": "AGPL-3.0",
+  "homepage": "https://tigertutoringtool.typhon-sirius.ts.net",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackyzha0/quartz.git"
+    "url": "https://github.com/aamirazad/tigertutoringtool"
   },
   "scripts": {
+    "dev": "npx quartz build --serve --port 9000",
     "quartz": "./quartz/bootstrap-cli.mjs",
-    "docs": "npx quartz build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx ./quartz/util/path.test.ts && tsx ./quartz/depgraph.test.ts",
