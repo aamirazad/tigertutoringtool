@@ -22,9 +22,13 @@ jobs:
           ssh-strict: "false"
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
-          submodules: "true"
-          ssh-key: ${{ secrets.ID_ED25519 }}
+          repository: 'aamirazad/Vault'
+          path: 'Vault'
+          github-server-url: 'https://code.typhon-sirius.ts.net'
+          token: ${{ secrets.FG_PERSONAL_ACCESS_TOKEN }}
       - uses: actions/setup-node@v4
         with:
           node-version: 22
