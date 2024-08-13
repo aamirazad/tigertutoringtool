@@ -3,7 +3,6 @@ name: Build
 on:
   push:
 
-
 jobs:
   # Build job
   build:
@@ -15,33 +14,31 @@ jobs:
           oauth-client-id: ${{ secrets.TS_OAUTH_CLIENT_ID }}
           oauth-secret: ${{ secrets.TS_OAUTH_SECRET }}
           tags: tag:ci
-          ssh-strict: 'false'
+          ssh-strict: "false"
       - name: Checkout
         uses: actions/checkout@v4
         with:
           submodules: "true"
           ssh-key: ${{ secrets.ID_ED25519 }}
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v3
-      - name: Cache dependencies
-        uses: actions/cache@v4
+      - uses: actions/setup-node@v4
         with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
-      - name: Build
+          node-version: 22
+      - name: Install Dependencies
+        run: npm ci
+      - name: Build Quartz
         run: npx quartz build
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
 
-  # Deployment job
   deploy:
+    needs: build
     environment:
       name: github-pages
-      url: ${{steps.deployment.outputs.page_url}}
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: build
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
