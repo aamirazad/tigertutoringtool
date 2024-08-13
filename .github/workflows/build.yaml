@@ -11,10 +11,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - uses: actions/checkout@v4
         with:
           submodules: "true"
-          token: ${{ secrets.FG_PERSONAL_ACCESS_TOKEN }}
+          ssh: ${{ secrets.ID_ED25519 }}
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
