@@ -13,6 +13,7 @@
   "dependencies": {
     "@fastify/static": "7.0.4",
     "@types/fastify-static": "^2.2.1",
-    "fastify": "^4.28.1"
+    "fastify": "^4.28.1",
+    "mime-types": "^2.1.35"
   }
 }
