@@ -40,10 +40,17 @@ const defaultOptions: BreadcrumbOptions = {
   showCurrentPage: true,
 }
 
-function formatCrumb(displayName: string, baseSlug: FullSlug, currentSlug: SimpleSlug): CrumbData {
+function formatCrumb(
+  displayName: string,
+  baseSlug: FullSlug,
+  currentSlug: SimpleSlug,
+  isFile: boolean,
+): CrumbData {
+  const resolvedPath = resolveRelative(baseSlug, currentSlug)
+  const duplicatedPath = isFile ? `${resolvedPath}${displayName}` : resolvedPath
   return {
     displayName: displayName.replaceAll("-", " "),
-    path: resolveRelative(baseSlug, currentSlug),
+    path: duplicatedPath,
   }
 }
 
@@ -65,9 +72,9 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
     }
 
     // Format entry for root element
-    const firstEntry = formatCrumb(options.rootName, fileData.slug!, "/" as SimpleSlug)
+    const firstEntry = formatCrumb(options.rootName, fileData.slug!, "/" as SimpleSlug, false)
     const crumbs: CrumbData[] = [firstEntry]
-
+    
     if (!folderIndex && options.resolveFrontmatterTitle) {
       folderIndex = new Map()
       // construct the index for the first time
@@ -109,10 +116,10 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
           curPathSegment,
           fileData.slug!,
           (currentPath + (includeTrailingSlash ? "/" : "")) as SimpleSlug,
+          true
         )
         crumbs.push(crumb)
       }
-
       // Add current file to crumb (can directly use frontmatter title)
       if (options.showCurrentPage && slugParts.at(-1) !== "index") {
         crumbs.push({
