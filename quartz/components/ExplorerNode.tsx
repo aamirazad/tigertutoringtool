@@ -172,7 +172,7 @@ export function ExplorerNode({ node, opts, fullPath, fileData }: ExplorerNodePro
   if (node.name !== "") {
     folderPath = joinSegments(fullPath ?? "", node.name)
   }
-
+  const folderNotePath = joinSegments(fullPath ?? "", `${node.name}/${node.name}`)
   return (
     <>
       {node.file ? (
@@ -206,14 +206,14 @@ export function ExplorerNode({ node, opts, fullPath, fileData }: ExplorerNodePro
               <div key={node.name} data-folderpath={folderPath}>
                 {folderBehavior === "link" ? (
                   <a
-                    href={resolveRelative(fileData.slug!, folderPath as SimpleSlug)}
+                    href={resolveRelative(fileData.slug!, folderNotePath as SimpleSlug)}
                     data-for={node.name}
                     class="folder-title"
                   >
                     {node.displayName}
                   </a>
                 ) : (
-                  <button class="folder-button">
+                  <button class="folder-button" data-foldernote={folderNotePath}>
                     <span class="folder-title">{node.displayName}</span>
                   </button>
                 )}

@@ -2,7 +2,6 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 import { RemovePrivate } from "./quartz/plugins/filters/private"
 import { RemoveExcalidraw } from "./quartz/plugins/filters/excalidraw"
-import { RemoveFolderEmoji } from "./quartz/plugins/filters/remove-folder-emoji"
 
 /**
  * Quartz 4.0 Configuration
@@ -37,7 +36,7 @@ const config: QuartzConfig = {
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
           secondary: "#000162",
-          tertiary: "#00203f",
+          tertiary: "#8e7b27",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
@@ -73,7 +72,7 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
     ],
-    filters: [Plugin.RemoveDrafts(), RemovePrivate(), RemoveExcalidraw(), RemoveFolderEmoji()],
+    filters: [Plugin.RemoveDrafts(), RemovePrivate(), RemoveExcalidraw()],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
