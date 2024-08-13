@@ -29,6 +29,7 @@ jobs:
           path: 'Vault'
           github-server-url: 'https://code.typhon-sirius.ts.net'
           token: ${{ secrets.FG_PERSONAL_ACCESS_TOKEN }}
+          ref: 'main'
       - uses: actions/setup-node@v4
         with:
           node-version: 22
