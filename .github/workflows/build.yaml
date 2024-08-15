@@ -22,19 +22,8 @@ jobs:
           ssh-strict: "false"
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          repository: 'aamirazad/Vault'
-          path: 'Vault'
-          github-server-url: 'https://code.typhon-sirius.ts.net'
-          token: ${{ secrets.FG_PERSONAL_ACCESS_TOKEN }}
-          ref: 'main'
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 22
-      - name: Install Dependencies
-        run: npm ci
+      - uses: oven-sh/setup-bun@v2
+        run: bun install
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
