@@ -13,15 +13,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Tailscale
-        uses: tailscale/github-action@v2
-        with:
-          oauth-client-id: ${{ secrets.TS_OAUTH_CLIENT_ID }}
-          oauth-secret: ${{ secrets.TS_OAUTH_SECRET }}
-          tags: tag:ci
-          ssh-strict: "false"
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          submodules: true
       - uses: oven-sh/setup-bun@v2
       - run: bun install
       - uses: actions/setup-node@v4
