@@ -23,7 +23,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - uses: oven-sh/setup-bun@v2
-        run: bun install
+      - run: bun install
+      - uses: actions/setup-node@v4
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
