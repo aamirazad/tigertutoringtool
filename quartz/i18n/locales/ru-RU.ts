@@ -1,58 +1,58 @@
-import { Translation } from "./definition"
+import { Translation } from './definition'
 
 export default {
   propertyDefaults: {
-    title: "Без названия",
-    description: "Описание отсутствует",
+    title: 'Без названия',
+    description: 'Описание отсутствует',
   },
   components: {
     callout: {
-      note: "Заметка",
-      abstract: "Резюме",
-      info: "Инфо",
-      todo: "Сделать",
-      tip: "Подсказка",
-      success: "Успех",
-      question: "Вопрос",
-      warning: "Предупреждение",
-      failure: "Неудача",
-      danger: "Опасность",
-      bug: "Баг",
-      example: "Пример",
-      quote: "Цитата",
+      note: 'Заметка',
+      abstract: 'Резюме',
+      info: 'Инфо',
+      todo: 'Сделать',
+      tip: 'Подсказка',
+      success: 'Успех',
+      question: 'Вопрос',
+      warning: 'Предупреждение',
+      failure: 'Неудача',
+      danger: 'Опасность',
+      bug: 'Баг',
+      example: 'Пример',
+      quote: 'Цитата',
     },
     backlinks: {
-      title: "Обратные ссылки",
-      noBacklinksFound: "Обратные ссылки отсутствуют",
+      title: 'Обратные ссылки',
+      noBacklinksFound: 'Обратные ссылки отсутствуют',
     },
     themeToggle: {
-      lightMode: "Светлый режим",
-      darkMode: "Тёмный режим",
+      lightMode: 'Светлый режим',
+      darkMode: 'Тёмный режим',
     },
     explorer: {
-      title: "Проводник",
+      title: 'Проводник',
     },
     footer: {
-      createdWith: "Создано с помощью",
+      createdWith: 'Создано с помощью',
     },
     graph: {
-      title: "Вид графа",
+      title: 'Вид графа',
     },
     recentNotes: {
-      title: "Недавние заметки",
+      title: 'Недавние заметки',
       seeRemainingMore: ({ remaining }) =>
-        `Посмотреть оставш${getForm(remaining, "уюся", "иеся", "иеся")} ${remaining} →`,
+        `Посмотреть оставш${getForm(remaining, 'уюся', 'иеся', 'иеся')} ${remaining} →`,
     },
     transcludes: {
       transcludeOf: ({ targetSlug }) => `Переход из ${targetSlug}`,
-      linkToOriginal: "Ссылка на оригинал",
+      linkToOriginal: 'Ссылка на оригинал',
     },
     search: {
-      title: "Поиск",
-      searchBarPlaceholder: "Найти что-нибудь",
+      title: 'Поиск',
+      searchBarPlaceholder: 'Найти что-нибудь',
     },
     tableOfContents: {
-      title: "Оглавление",
+      title: 'Оглавление',
     },
     contentMeta: {
       readingTime: ({ minutes }) => `время чтения ~${minutes} мин.`,
@@ -60,26 +60,37 @@ export default {
   },
   pages: {
     rss: {
-      recentNotes: "Недавние заметки",
+      recentNotes: 'Недавние заметки',
       lastFewNotes: ({ count }) =>
-        `Последн${getForm(count, "яя", "ие", "ие")} ${count} замет${getForm(count, "ка", "ки", "ок")}`,
+        `Последн${getForm(count, 'яя', 'ие', 'ие')} ${count} замет${getForm(
+          count,
+          'ка',
+          'ки',
+          'ок',
+        )}`,
     },
     error: {
-      title: "Страница не найдена",
-      notFound: "Эта страница приватная или не существует",
+      title: 'Страница не найдена',
+      notFound: 'Эта страница приватная или не существует',
+      home: 'Вернуться на главную страницу',
     },
     folderContent: {
-      folder: "Папка",
+      folder: 'Папка',
       itemsUnderFolder: ({ count }) =>
-        `в этой папке ${count} элемент${getForm(count, "", "а", "ов")}`,
+        `в этой папке ${count} элемент${getForm(count, '', 'а', 'ов')}`,
     },
     tagContent: {
-      tag: "Тег",
-      tagIndex: "Индекс тегов",
-      itemsUnderTag: ({ count }) => `с этим тегом ${count} элемент${getForm(count, "", "а", "ов")}`,
+      tag: 'Тег',
+      tagIndex: 'Индекс тегов',
+      itemsUnderTag: ({ count }) => `с этим тегом ${count} элемент${getForm(count, '', 'а', 'ов')}`,
       showingFirst: ({ count }) =>
-        `Показыва${getForm(count, "ется", "ются", "ются")} ${count} тег${getForm(count, "", "а", "ов")}`,
-      totalTags: ({ count }) => `Всего ${count} тег${getForm(count, "", "а", "ов")}`,
+        `Показыва${getForm(count, 'ется', 'ются', 'ются')} ${count} тег${getForm(
+          count,
+          '',
+          'а',
+          'ов',
+        )}`,
+      totalTags: ({ count }) => `Всего ${count} тег${getForm(count, '', 'а', 'ов')}`,
     },
   },
 } as const satisfies Translation

@@ -48,12 +48,7 @@ export const FolderPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOpt
         const slug = vfile.data.slug
         const folderName = path.dirname(slug ?? "") as SimpleSlug
         if (slug && folderName !== "." && folderName !== "tags") {
-          const noteFilePath = joinSegments(folderName, `${path.basename(folderName)}.md`) as FilePath
-          const indexPath = joinSegments(folderName, "index.html") as FilePath
-          const targetPath = content.some(([_t, vf]) => vf.data.filePath === noteFilePath)
-            ? noteFilePath
-            : indexPath
-          graph.addEdge(vfile.data.filePath!, targetPath)
+          graph.addEdge(vfile.data.filePath!, joinSegments(folderName, "index.html") as FilePath)
         }
       })
 

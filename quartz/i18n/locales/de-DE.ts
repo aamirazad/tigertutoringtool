@@ -1,57 +1,57 @@
-import { Translation } from "./definition"
+import { Translation } from './definition'
 
 export default {
   propertyDefaults: {
-    title: "Unbenannt",
-    description: "Keine Beschreibung angegeben",
+    title: 'Unbenannt',
+    description: 'Keine Beschreibung angegeben',
   },
   components: {
     callout: {
-      note: "Hinweis",
-      abstract: "Zusammenfassung",
-      info: "Info",
-      todo: "Zu erledigen",
-      tip: "Tipp",
-      success: "Erfolg",
-      question: "Frage",
-      warning: "Warnung",
-      failure: "Misserfolg",
-      danger: "Gefahr",
-      bug: "Fehler",
-      example: "Beispiel",
-      quote: "Zitat",
+      note: 'Hinweis',
+      abstract: 'Zusammenfassung',
+      info: 'Info',
+      todo: 'Zu erledigen',
+      tip: 'Tipp',
+      success: 'Erfolg',
+      question: 'Frage',
+      warning: 'Warnung',
+      failure: 'Misserfolg',
+      danger: 'Gefahr',
+      bug: 'Fehler',
+      example: 'Beispiel',
+      quote: 'Zitat',
     },
     backlinks: {
-      title: "Backlinks",
-      noBacklinksFound: "Keine Backlinks gefunden",
+      title: 'Backlinks',
+      noBacklinksFound: 'Keine Backlinks gefunden',
     },
     themeToggle: {
-      lightMode: "Light Mode",
-      darkMode: "Dark Mode",
+      lightMode: 'Light Mode',
+      darkMode: 'Dark Mode',
     },
     explorer: {
-      title: "Explorer",
+      title: 'Explorer',
     },
     footer: {
-      createdWith: "Erstellt mit",
+      createdWith: 'Erstellt mit',
     },
     graph: {
-      title: "Graphansicht",
+      title: 'Graphansicht',
     },
     recentNotes: {
-      title: "Zuletzt bearbeitete Seiten",
+      title: 'Zuletzt bearbeitete Seiten',
       seeRemainingMore: ({ remaining }) => `${remaining} weitere ansehen →`,
     },
     transcludes: {
       transcludeOf: ({ targetSlug }) => `Transklusion von ${targetSlug}`,
-      linkToOriginal: "Link zum Original",
+      linkToOriginal: 'Link zum Original',
     },
     search: {
-      title: "Suche",
-      searchBarPlaceholder: "Suche nach etwas",
+      title: 'Suche',
+      searchBarPlaceholder: 'Suche nach etwas',
     },
     tableOfContents: {
-      title: "Inhaltsverzeichnis",
+      title: 'Inhaltsverzeichnis',
     },
     contentMeta: {
       readingTime: ({ minutes }) => `${minutes} min read`,
@@ -59,23 +59,24 @@ export default {
   },
   pages: {
     rss: {
-      recentNotes: "Zuletzt bearbeitete Seiten",
+      recentNotes: 'Zuletzt bearbeitete Seiten',
       lastFewNotes: ({ count }) => `Letzte ${count} Seiten`,
     },
     error: {
-      title: "Nicht gefunden",
-      notFound: "Diese Seite ist entweder nicht öffentlich oder existiert nicht.",
+      title: 'Nicht gefunden',
+      notFound: 'Diese Seite ist entweder nicht öffentlich oder existiert nicht.',
+      home: 'Return to Homepage',
     },
     folderContent: {
-      folder: "Ordner",
+      folder: 'Ordner',
       itemsUnderFolder: ({ count }) =>
-        count === 1 ? "1 Datei in diesem Ordner." : `${count} Dateien in diesem Ordner.`,
+        count === 1 ? '1 Datei in diesem Ordner.' : `${count} Dateien in diesem Ordner.`,
     },
     tagContent: {
-      tag: "Tag",
-      tagIndex: "Tag-Übersicht",
+      tag: 'Tag',
+      tagIndex: 'Tag-Übersicht',
       itemsUnderTag: ({ count }) =>
-        count === 1 ? "1 Datei mit diesem Tag." : `${count} Dateien mit diesem Tag.`,
+        count === 1 ? '1 Datei mit diesem Tag.' : `${count} Dateien mit diesem Tag.`,
       showingFirst: ({ count }) => `Die ersten ${count} Tags werden angezeigt.`,
       totalTags: ({ count }) => `${count} Tags insgesamt.`,
     },

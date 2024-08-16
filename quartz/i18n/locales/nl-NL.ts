@@ -1,84 +1,85 @@
-import { Translation } from "./definition"
+import { Translation } from './definition'
 
 export default {
   propertyDefaults: {
-    title: "Naamloos",
-    description: "Geen beschrijving gegeven.",
+    title: 'Naamloos',
+    description: 'Geen beschrijving gegeven.',
   },
   components: {
     callout: {
-      note: "Notitie",
-      abstract: "Samenvatting",
-      info: "Info",
-      todo: "Te doen",
-      tip: "Tip",
-      success: "Succes",
-      question: "Vraag",
-      warning: "Waarschuwing",
-      failure: "Mislukking",
-      danger: "Gevaar",
-      bug: "Bug",
-      example: "Voorbeeld",
-      quote: "Citaat",
+      note: 'Notitie',
+      abstract: 'Samenvatting',
+      info: 'Info',
+      todo: 'Te doen',
+      tip: 'Tip',
+      success: 'Succes',
+      question: 'Vraag',
+      warning: 'Waarschuwing',
+      failure: 'Mislukking',
+      danger: 'Gevaar',
+      bug: 'Bug',
+      example: 'Voorbeeld',
+      quote: 'Citaat',
     },
     backlinks: {
-      title: "Backlinks",
-      noBacklinksFound: "Geen backlinks gevonden",
+      title: 'Backlinks',
+      noBacklinksFound: 'Geen backlinks gevonden',
     },
     themeToggle: {
-      lightMode: "Lichte modus",
-      darkMode: "Donkere modus",
+      lightMode: 'Lichte modus',
+      darkMode: 'Donkere modus',
     },
     explorer: {
-      title: "Verkenner",
+      title: 'Verkenner',
     },
     footer: {
-      createdWith: "Gemaakt met",
+      createdWith: 'Gemaakt met',
     },
     graph: {
-      title: "Grafiekweergave",
+      title: 'Grafiekweergave',
     },
     recentNotes: {
-      title: "Recente notities",
+      title: 'Recente notities',
       seeRemainingMore: ({ remaining }) => `Zie ${remaining} meer →`,
     },
     transcludes: {
       transcludeOf: ({ targetSlug }) => `Invoeging van ${targetSlug}`,
-      linkToOriginal: "Link naar origineel",
+      linkToOriginal: 'Link naar origineel',
     },
     search: {
-      title: "Zoeken",
-      searchBarPlaceholder: "Doorzoek de website",
+      title: 'Zoeken',
+      searchBarPlaceholder: 'Doorzoek de website',
     },
     tableOfContents: {
-      title: "Inhoudsopgave",
+      title: 'Inhoudsopgave',
     },
     contentMeta: {
       readingTime: ({ minutes }) =>
-        minutes === 1 ? "1 minuut leestijd" : `${minutes} minuten leestijd`,
+        minutes === 1 ? '1 minuut leestijd' : `${minutes} minuten leestijd`,
     },
   },
   pages: {
     rss: {
-      recentNotes: "Recente notities",
+      recentNotes: 'Recente notities',
       lastFewNotes: ({ count }) => `Laatste ${count} notities`,
     },
     error: {
-      title: "Niet gevonden",
-      notFound: "Deze pagina is niet zichtbaar of bestaat niet.",
+      title: 'Niet gevonden',
+      notFound: 'Deze pagina is niet zichtbaar of bestaat niet.',
+      home: 'Keer terug naar de start pagina',
     },
     folderContent: {
-      folder: "Map",
+      folder: 'Map',
       itemsUnderFolder: ({ count }) =>
-        count === 1 ? "1 item in deze map." : `${count} items in deze map.`,
+        count === 1 ? '1 item in deze map.' : `${count} items in deze map.`,
     },
     tagContent: {
-      tag: "Label",
-      tagIndex: "Label-index",
+      tag: 'Label',
+      tagIndex: 'Label-index',
       itemsUnderTag: ({ count }) =>
-        count === 1 ? "1 item met dit label." : `${count} items met dit label.`,
+        count === 1 ? '1 item met dit label.' : `${count} items met dit label.`,
       showingFirst: ({ count }) =>
-        count === 1 ? "Eerste label tonen." : `Eerste ${count} labels tonen.`,
+        count === 1 ? 'Eerste label tonen.' : `Eerste ${count} labels tonen.`,
       totalTags: ({ count }) => `${count} labels gevonden.`,
     },
   },

@@ -46,8 +46,10 @@ button#explorer {
   list-style: none;
   overflow: hidden;
   max-height: none;
-  transition: max-height 0.35s ease;
-  margin-top: 0.5rem;
+  :not(.explorer-burger-menu) & {
+    transition: max-height 0.35s ease;
+    margin-top: 0.5rem;
+  }
 
   &.collapsed > .overflow::after {
     opacity: 0;
@@ -55,7 +57,7 @@ button#explorer {
 
   & ul {
     list-style: none;
-    margin: 0.08rem 0;
+    margin: 0.08rem 10px;
     padding: 0;
     transition:
       max-height 0.35s ease,
@@ -83,13 +85,19 @@ svg {
   align-items: center;
   user-select: none;
 
+  & a.folder-title[data-isroot="true"] {
+    font-size: 1.1rem;
+  }
+
   & div > a {
     color: var(--secondary);
     font-family: var(--headerFont);
-    font-size: 0.95rem;
     font-weight: $semiBoldWeight;
     line-height: 1.5rem;
     display: inline-block;
+    &.folder-title {
+      font-size: 0.9rem;
+    }
   }
 
   & div > a:hover {
@@ -126,6 +134,16 @@ svg {
   cursor: pointer;
   transition: transform 0.3s ease;
   backface-visibility: visible;
+  &[data-hasicon="true"] {
+    opacity: 0;
+    left: -0.2rem;
+    position: relative;
+    width: 1em;
+    z-index: 99;
+  }
+  &[data-hasicon="true"][data-isroot="true"] {
+    left: 1.3rem;
+  }
 }
 
 li:has(> .folder-outer:not(.open)) > .folder-container > svg {
@@ -145,4 +163,52 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
   height: 4px;
   // remove default margin from li
   margin: 0;
+}
+
+#explorer-content ul li > a[data-hasicon="true"],
+.folder-container div > a[data-hasicon="true"] {
+  display: flex;
+  align-items: center;
+  vertical-align: middle;
+}
+
+#explorer-content ul li > a[data-hasicon="true"]:has(.file-title-icon) {
+  position: relative;
+  left: 0.1rem;
+}
+
+.folder-title-icon > svg {
+  margin-right: 5px;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  backface-visibility: visible;
+  width: 1em;
+  height: 1em;
+  vertical-align: -2px;
+  color: var(--secondary);
+}
+
+.file-title-icon > svg {
+  width: 1em;
+  height: 1em;
+  margin-right: 5px;
+  vertical-align: -2px;
+}
+
+// .folder-title-icon {
+//   margin-left: -1.5rem;
+// }
+
+.folder-container {
+  &[data-haschildren="true"] {
+    .folder-title[data-hasicon="true"]:not([data-isroot="true"]) {
+      margin-left: -1.2rem;
+    }
+    &:has(.folder-title[data-hasicon="false"][data-isroot="false"]) {
+      margin-left: 0.3rem;
+    }
+  }
+  &[data-haschildren="false"] {
+    margin-left: 0.3rem;
+  }
 }

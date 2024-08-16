@@ -1,10 +1,31 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { IconFolderOptions } from "./quartz/plugins/components/FileIcons";
 
 // components shared across all pages
+
+const iconsOptions: IconFolderOptions = {
+  rootIconFolder: "quartz/static/icons",
+  default: {
+    file: "file",
+  },
+};
+
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  header: [
+    Component.MobileOnly(
+      Component.ExplorerBurger({
+        folderDefaultState: "open",
+        folderClickBehavior: "link",
+        iconSettings: iconsOptions,
+      }),
+    ),
+    Component.MobileOnly(Component.PageTitle()),
+    Component.MobileOnly(Component.Spacer()),
+    Component.Search(),
+    Component.Darkmode(),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/aamirazad/tigertutoringtool",
