@@ -29,8 +29,6 @@ jobs:
       - uses: oven-sh/setup-bun@v2
       - run: bun install
       - uses: actions/setup-node@v4
-        with:
-          cache: "bun"
       - name: Fetch submodules
         continue-on-error: true
         run: |
