@@ -1,57 +1,57 @@
-import { Translation } from './definition'
+import { Translation } from "./definition"
 
 export default {
   propertyDefaults: {
-    title: 'Fără titlu',
-    description: 'Nici o descriere furnizată',
+    title: "Fără titlu",
+    description: "Nici o descriere furnizată",
   },
   components: {
     callout: {
-      note: 'Notă',
-      abstract: 'Rezumat',
-      info: 'Informație',
-      todo: 'De făcut',
-      tip: 'Sfat',
-      success: 'Succes',
-      question: 'Întrebare',
-      warning: 'Avertisment',
-      failure: 'Eșec',
-      danger: 'Pericol',
-      bug: 'Bug',
-      example: 'Exemplu',
-      quote: 'Citat',
+      note: "Notă",
+      abstract: "Rezumat",
+      info: "Informație",
+      todo: "De făcut",
+      tip: "Sfat",
+      success: "Succes",
+      question: "Întrebare",
+      warning: "Avertisment",
+      failure: "Eșec",
+      danger: "Pericol",
+      bug: "Bug",
+      example: "Exemplu",
+      quote: "Citat",
     },
     backlinks: {
-      title: 'Legături înapoi',
-      noBacklinksFound: 'Nu s-au găsit legături înapoi',
+      title: "Legături înapoi",
+      noBacklinksFound: "Nu s-au găsit legături înapoi",
     },
     themeToggle: {
-      lightMode: 'Modul luminos',
-      darkMode: 'Modul întunecat',
+      lightMode: "Modul luminos",
+      darkMode: "Modul întunecat",
     },
     explorer: {
-      title: 'Explorator',
+      title: "Explorator",
     },
     footer: {
-      createdWith: 'Creat cu',
+      createdWith: "Creat cu",
     },
     graph: {
-      title: 'Graf',
+      title: "Graf",
     },
     recentNotes: {
-      title: 'Notițe recente',
+      title: "Notițe recente",
       seeRemainingMore: ({ remaining }) => `Vezi încă ${remaining} →`,
     },
     transcludes: {
       transcludeOf: ({ targetSlug }) => `Extras din ${targetSlug}`,
-      linkToOriginal: 'Legătură către original',
+      linkToOriginal: "Legătură către original",
     },
     search: {
-      title: 'Căutare',
-      searchBarPlaceholder: 'Introduceți termenul de căutare...',
+      title: "Căutare",
+      searchBarPlaceholder: "Introduceți termenul de căutare...",
     },
     tableOfContents: {
-      title: 'Cuprins',
+      title: "Cuprins",
     },
     contentMeta: {
       readingTime: ({ minutes }) =>
@@ -60,24 +60,24 @@ export default {
   },
   pages: {
     rss: {
-      recentNotes: 'Notițe recente',
+      recentNotes: "Notițe recente",
       lastFewNotes: ({ count }) => `Ultimele ${count} notițe`,
     },
     error: {
-      title: 'Pagina nu a fost găsită',
-      notFound: 'Fie această pagină este privată, fie nu există.',
-      home: 'Reveniți la pagina de pornire',
+      title: "Pagina nu a fost găsită",
+      notFound: "Fie această pagină este privată, fie nu există.",
+      home: "Reveniți la pagina de pornire",
     },
     folderContent: {
-      folder: 'Dosar',
+      folder: "Dosar",
       itemsUnderFolder: ({ count }) =>
-        count === 1 ? '1 articol în acest dosar.' : `${count} elemente în acest dosar.`,
+        count === 1 ? "1 articol în acest dosar." : `${count} elemente în acest dosar.`,
     },
     tagContent: {
-      tag: 'Etichetă',
-      tagIndex: 'Indexul etichetelor',
+      tag: "Etichetă",
+      tagIndex: "Indexul etichetelor",
       itemsUnderTag: ({ count }) =>
-        count === 1 ? '1 articol cu această etichetă.' : `${count} articole cu această etichetă.`,
+        count === 1 ? "1 articol cu această etichetă." : `${count} articole cu această etichetă.`,
       showingFirst: ({ count }) => `Se afișează primele ${count} etichete.`,
       totalTags: ({ count }) => `Au fost găsite ${count} etichete în total.`,
     },

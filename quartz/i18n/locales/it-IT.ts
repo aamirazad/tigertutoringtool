@@ -1,45 +1,45 @@
-import { Translation } from './definition'
+import { Translation } from "./definition"
 
 export default {
   propertyDefaults: {
-    title: 'Senza titolo',
-    description: 'Nessuna descrizione',
+    title: "Senza titolo",
+    description: "Nessuna descrizione",
   },
   components: {
     callout: {
-      note: 'Nota',
-      abstract: 'Astratto',
-      info: 'Info',
-      todo: 'Da fare',
-      tip: 'Consiglio',
-      success: 'Completato',
-      question: 'Domanda',
-      warning: 'Attenzione',
-      failure: 'Errore',
-      danger: 'Pericolo',
-      bug: 'Bug',
-      example: 'Esempio',
-      quote: 'Citazione',
+      note: "Nota",
+      abstract: "Astratto",
+      info: "Info",
+      todo: "Da fare",
+      tip: "Consiglio",
+      success: "Completato",
+      question: "Domanda",
+      warning: "Attenzione",
+      failure: "Errore",
+      danger: "Pericolo",
+      bug: "Bug",
+      example: "Esempio",
+      quote: "Citazione",
     },
     backlinks: {
-      title: 'Link entranti',
-      noBacklinksFound: 'Nessun link entrante',
+      title: "Link entranti",
+      noBacklinksFound: "Nessun link entrante",
     },
     themeToggle: {
-      lightMode: 'Tema chiaro',
-      darkMode: 'Tema scuro',
+      lightMode: "Tema chiaro",
+      darkMode: "Tema scuro",
     },
     explorer: {
-      title: 'Esplora',
+      title: "Esplora",
     },
     footer: {
-      createdWith: 'Creato con',
+      createdWith: "Creato con",
     },
     graph: {
-      title: 'Vista grafico',
+      title: "Vista grafico",
     },
     recentNotes: {
-      title: 'Note recenti',
+      title: "Note recenti",
       seeRemainingMore: ({ remaining }) => `Vedi ${remaining} altro →`,
     },
     transcludes: {
@@ -47,11 +47,11 @@ export default {
       linkToOriginal: "Link all'originale",
     },
     search: {
-      title: 'Cerca',
-      searchBarPlaceholder: 'Cerca qualcosa',
+      title: "Cerca",
+      searchBarPlaceholder: "Cerca qualcosa",
     },
     tableOfContents: {
-      title: 'Tabella dei contenuti',
+      title: "Tabella dei contenuti",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `${minutes} minuti`,
@@ -59,24 +59,24 @@ export default {
   },
   pages: {
     rss: {
-      recentNotes: 'Note recenti',
+      recentNotes: "Note recenti",
       lastFewNotes: ({ count }) => `Ultime ${count} note`,
     },
     error: {
-      title: 'Non trovato',
-      notFound: 'Questa pagina è privata o non esiste.',
-      home: 'Ritorna alla home page',
+      title: "Non trovato",
+      notFound: "Questa pagina è privata o non esiste.",
+      home: "Ritorna alla home page",
     },
     folderContent: {
-      folder: 'Cartella',
+      folder: "Cartella",
       itemsUnderFolder: ({ count }) =>
-        count === 1 ? '1 oggetto in questa cartella.' : `${count} oggetti in questa cartella.`,
+        count === 1 ? "1 oggetto in questa cartella." : `${count} oggetti in questa cartella.`,
     },
     tagContent: {
-      tag: 'Etichetta',
-      tagIndex: 'Indice etichette',
+      tag: "Etichetta",
+      tagIndex: "Indice etichette",
       itemsUnderTag: ({ count }) =>
-        count === 1 ? '1 oggetto con questa etichetta.' : `${count} oggetti con questa etichetta.`,
+        count === 1 ? "1 oggetto con questa etichetta." : `${count} oggetti con questa etichetta.`,
       showingFirst: ({ count }) => `Prime ${count} etichette.`,
       totalTags: ({ count }) => `Trovate ${count} etichette totali.`,
     },

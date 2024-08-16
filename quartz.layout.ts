@@ -1,31 +1,11 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-import { IconFolderOptions } from "./quartz/plugins/components/FileIcons";
 
 // components shared across all pages
-
-const iconsOptions: IconFolderOptions = {
-  rootIconFolder: "quartz/static/icons",
-  default: {
-    file: "file",
-  },
-};
-
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [
-    Component.MobileOnly(
-      Component.ExplorerBurger({
-        folderDefaultState: "open",
-        folderClickBehavior: "link",
-        iconSettings: iconsOptions,
-      }),
-    ),
-    Component.MobileOnly(Component.PageTitle()),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
-  ],
+  header: [],
+  afterBody: [],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/aamirazad/tigertutoringtool",
@@ -76,7 +56,6 @@ export const defaultListPageLayout: PageLayout = {
         folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
         folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
         useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
-
       }),
     ),
   ],
