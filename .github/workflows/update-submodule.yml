@@ -26,5 +26,5 @@ jobs:
           git submodule update --init --recursive --checkout -f --remote
           git config --global user.name "GitHub Action"
           git config --global user.email "noreply@github.com"
-          git commit -am "chore (update): - ${{github.event.client_payload.ref}}"
+          git commit -am "chore (update): - aamirazad/Notes#${{github.event.client_payload.num}}"
           git push
