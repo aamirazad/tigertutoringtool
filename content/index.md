@@ -1,5 +1,5 @@
 ---
-name: Welcome to Tigertutoringtool v2
+title: Home
 ---
 
 # Welcome to Tigertutoringtool v2
