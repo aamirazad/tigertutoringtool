@@ -1,6 +1,6 @@
 # Tigertutuoringtool
 
-![Homepage Screenshot](.github/homepage.png)
+![Homepage Screenshot](https://github.com/aamirazad/tigertutoringtool/blob/main/.github/homepage.png?raw=true)
 
 ## What is it
 
