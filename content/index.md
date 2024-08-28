@@ -9,7 +9,7 @@ title: Home
 > The technical side of the website is what I worked on during arcade, not the content. 
 > - [[Honors Chemistry Final Review]]
 > - [[Mass Relations in Chemistry]]
-> - [[Covalent bonds]]
+> - [[Covalent Bonds]]
 > - [[Hamlet]]
 > - [[Into the Wild]]
 > - [[10th-Grade/History/Europe in the Middle Ages/]]
