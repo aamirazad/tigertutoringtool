@@ -11,7 +11,9 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "posthog",
+      apiKey: "phc_LFNbw8kep6Ub4wNahx7OR6yS02UzT6N9pZylc1UgGf",
+      host: "https://us.i.posthog.com"
     },
     locale: "en-US",
     baseUrl: "tigertutoringtool.aamira.me",
