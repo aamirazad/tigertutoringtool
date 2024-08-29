@@ -26,14 +26,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(
-      Component.Explorer({
-        title: "Explorer", // title of the explorer component
-        folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
-        folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
-        useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
-      }),
-    ),
+    Component.Explorer({
+      title: "Explorer", // title of the explorer component
+      folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
+      folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
+      useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
+    }),
   ],
   right: [
     Component.Graph(),
@@ -50,14 +48,12 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(
-      Component.Explorer({
-        title: "Explorer", // title of the explorer component
-        folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
-        folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
-        useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
-      }),
-    ),
+    Component.Explorer({
+      title: "Explorer", // title of the explorer component
+      folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
+      folderDefaultState: "collapsed", // default state of folders ("collapsed" or "open")
+      useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
+    }),
   ],
   right: [],
 }
