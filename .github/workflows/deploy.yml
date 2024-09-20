@@ -43,10 +43,18 @@ jobs:
         run: bun install
       - name: Build Quartz
         run: npx quartz build
+      - name: Encrypt website
+        run: >
+          npx staticrypt public -r -p ${{ secrets.DECRYPTION_PASSPHRASE }} --short
+          --template "password_template.html"
+          --template-title "Login"
+          --template-button "Open Page"
+          --template-color-primary "#113e9f"
+          --template-color-secondary "#e4e4e4"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: public
+          path: encrypted/public
 
   deploy:
     needs: build

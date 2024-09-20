@@ -83,6 +83,7 @@
     "serve-handler": "^6.1.5",
     "shiki": "^1.12.1",
     "source-map-support": "^0.5.21",
+    "staticrypt": "^3.5.0",
     "to-vfile": "^8.0.0",
     "toml": "^3.0.0",
     "unified": "^11.0.4",
