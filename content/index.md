@@ -13,5 +13,5 @@ This site has a long of changes from the old site. Mainly, this is a copy of my 
 For now, use the explorer on the right to navigate to your class. If you are looking for a specific topic, use the search bar in the top right.
 
 Coming soon:
-- [ ] Comments (from the old site)
+- [x] Comments (from the old site)
 - [ ] A simplier flow to get to your class
