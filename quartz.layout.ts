@@ -24,7 +24,7 @@ export const sharedPageComponents: SharedLayout = {
   ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/aamirazad/tigertutoringtool",
+      'Buy Tigertutoringtool': "tigertutoringtool.aamira.me/buy",
     },
   }),
 }
