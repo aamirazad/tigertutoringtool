@@ -38,6 +38,10 @@ export type Analytics =
       provider: "cabin"
       host?: string
     }
+  | {
+      provider: "litlyx"
+      projectId?: string
+    }
 
 export interface GlobalConfiguration {
   pageTitle: string

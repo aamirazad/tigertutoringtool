@@ -152,6 +152,15 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
       cabinScript.async = true
       document.head.appendChild(cabinScript)
     `)
+  } else if (cfg.analytics?.provider === "litlyx") {
+    componentResources.afterDOMLoaded.push(`
+      const litlyxScript = document.createElement("script")
+      litlyxScript.src = "https://cdn.jsdelivr.net/gh/litlyx/litlyx-js/browser/litlyx.js"
+      litlyxScript.defer = true
+      litlyxScript.async = true
+      litlyxScript.dataset.project = "${cfg.analytics.projectId}"
+      document.head.appendChild(litlyxScript)
+    `)
   }
 
   if (cfg.enableSPA) {
