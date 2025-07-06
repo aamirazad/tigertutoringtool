@@ -11,8 +11,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "litlyx",
-      projectId: "67ae9204df60f80d6a8c097f",
+      provider: "rybbit",
+      siteId: "2",
     },
     locale: "en-US",
     baseUrl: "tigertutoringtool.aamira.me",

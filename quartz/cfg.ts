@@ -42,6 +42,10 @@ export type Analytics =
       provider: "litlyx"
       projectId?: string
     }
+  | {
+      provider: "rybbit"
+      siteId?: string
+    }
 
 export interface GlobalConfiguration {
   pageTitle: string
