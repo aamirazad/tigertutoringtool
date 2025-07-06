@@ -164,7 +164,7 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
   } else if (cfg.analytics?.provider === "rybbit") {
     componentResources.afterDOMLoaded.push(`
       const rybbitScript = document.createElement("script")
-      rybbitScript.src = "https://analytics.aamira.me/api/script.js"
+      rybbitScript.src = "https://www.aamira.me/api/script.js"
       rybbitScript.defer = true
       rybbitScript.async = true
       rybbitScript.setAttribute("data-site-id", "${cfg.analytics.siteId}")
