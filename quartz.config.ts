@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "rybbit",
-      siteId: "2",
+      siteId: "4",
     },
     locale: "en-US",
     baseUrl: "tigertutoringtool.aamira.me",
