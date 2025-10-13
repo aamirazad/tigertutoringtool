@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       siteId: "4",
     },
     locale: "en-US",
-    baseUrl: "tigertutoringtool.aamira.me",
+    baseUrl: "tigertutoringtool.aamirazad.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
